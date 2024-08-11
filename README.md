@@ -1,4 +1,4 @@
-# PARSPEC Assignment
+# PDF Classifier
 
 ## Objective
 Classify PDF URLs into four categories: **fuses**, **cable**, **lighting**, and **others**.
