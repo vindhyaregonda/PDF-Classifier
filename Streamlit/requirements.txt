@@ -1,6 +1,7 @@
 PyPDF2
 pytesseract
 transformers
-PyMuPDF pillow
+PyMuPDF 
+pillow
 sentence-transformers
 streamlit
