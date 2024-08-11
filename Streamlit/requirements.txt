@@ -1,4 +1,5 @@
 PyPDF2
+beautifulsoup4
 pytesseract
 transformers
 PyMuPDF 
@@ -6,3 +7,9 @@ pillow
 sentence-transformers
 streamlit
 beautifulsoup4
+streamlit
+beautifulsoup4
+requests
+torch
+tqdm
+
