@@ -18,7 +18,8 @@ import os
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from concurrent.futures import ProcessPoolExecutor, as_completed
+# from concurrent.futures import ProcessPoolExecutor, as_completed
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import torch
 import torch.nn as nn
 from sentence_transformers import SentenceTransformer
@@ -153,9 +154,11 @@ class ExtractData:
 
         df['content'] = ""   # Text will be stored in new column
 
-        with ProcessPoolExecutor() as executor:
-            # Create futures
+        with ThreadPoolExecutor() as executor:
             futures = {executor.submit(self.process_row, row): idx for idx, row in df.iterrows()}
+        # with ProcessPoolExecutor() as executor:
+            # Create futures
+            # futures = {executor.submit(self.process_row, row): idx for idx, row in df.iterrows()}
             for future in tqdm(as_completed(futures), total=len(futures), desc='Processing rows'):
                 idx = futures[future]
                 try:
