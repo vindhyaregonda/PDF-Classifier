@@ -1,0 +1,6 @@
+PyPDF2
+pytesseract
+transformers
+PyMuPDF pillow
+sentence-transformers
+streamlit

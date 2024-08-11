@@ -1,0 +1,5723 @@
+datasheet_link,target_col,content
+https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2250/1000671047_Ds.pdf,cable,"TITLE 
+PART No. 
+REV 
+PAGE 
+ 
+ 
+ 
+ 
+1 of 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rev 
+DCR 
+Description 
+App’d 
+Date 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Address: 26 Milford Road, South Grafton, MA 01560   Phone: (508)-839-5987   Fax: (508)-839-4128 
+This document is the
+property of TEMP-FLEX.
+It may not be disclosed,
+reproduced, or otherwise
+used without permission.
+CONSTRUCTION
+Signal Conductor: 0.287+/-0.0025mm (0.0113+/-0.0001""), Silver Plated Copper per ASTM B-298
+Insulation: PFA per applicable paragraph MIL-DTL-17, 0.92+/-0.025mm (0.0363+/-0.001"") OD
+Inner Shield: Helically Overlapped Flat Silver Plated Copper per ASTM B-298
+Braid Shield: 46 AWG Silver Plated Copper per ASTM B-298, >89% Coverage Ref.
+Overall Shield Diameter: 1.168+/-0.05mm (0.046+/-0.002"")
+Jacket: FEP in accordance with MIL-DTL-17, Type IX
+Wall Thickness:  0.127mm (0.005"")
+Color: Blue
+ELECTRICAL
+Impedance: 50+/-1 ohms
+Velocity Of Propagation: 70% Ref.
+Capacitance: 29 pF/ft  (95 pF/m) Ref.
+GENERAL
+Temperature Rating: -65C to 150C (200C Static) Ref.
+Static Bend Radius: 5.0mm (0.2"") Ref.
+Dynamic Bend Radius: 10.0mm (0.4"") Ref.
+Weight: 3.5 lbs/1000ft Ref.
+1.42+/-0.076mm
+(0.056+/-0.003"")
+Inner Shield
+Braid Shield
+Jacket
+Insulation
+Signal Conductor
+Low Loss Microwave Coax,
+29 AWG, PFA Dielectric
+1000671047
+B
+B
+4634
+Update Dimensions, Opt. Temp., Add Attenuation Chart
+KP
+9/1/15
+A
+4019
+Update Primary Insulation P/N.
+KP
+9/10/14
+Frequency 
+(GHz) 
+Attenuation 
+(dB/100ft) 
+0.5 
+23.37 
+1.0 
+33.54 
+2 
+48.41 
+4 
+70.42 
+8 
+103.50 
+12 
+130.43 
+18 
+165.27 
+26 
+205.90 
+34 
+242.57 
+40 
+268.31 
+50 
+308.79 
+Att.=K1*SQRT(F MHz)+K2*F MHz 
+K1=1.008 
+K2=0.00167"
+https://www.fairviewmicrowave.com/images/productPDF/LMR-400.pdf,cable,"REV 1.3   Page 1 of 3
+Copyright © 2020
+Times Microwave Systems Coax Cable Specification
+Flexible Low Loss Communications Coax Replacement for Air Dielectric type RG8 
+cable Double Shields provides RF Shielding in excess of 90 db Low Loss size for 
+size compared to standard flexible cable
+Electrical Specifications
+                                                                                                              .
+	
+Description	
+Min	
+Typ	
+Max	
+Units	
+Frequency Range	
+DC	
+	
+6	
+ GHz	
+Impedance	
+	
+50 	
+	
+Ohms	
+Velocity of Propagation	
+	
+85 	
+	
+%	
+Time Delay	
+	
+1.2 [3.94]	
+	
+ns/ft [ns/m]	
+Shielding Effectiveness	
+90	
+	
+	
+dB	
+DWV (DC)	
+	
+	
+2,500	
+Vdc	
+Jacket Spark	
+	
+	
+8,000	
+Vrms	
+Inner Conductor DC Resist.	
+	
+	
+1.39	
+Ohms/1000ft	
+Outer Conductor DC Resist.	
+	
+	
+1.65	
+Ohms/1000ft	
+Nominal Capacitance	
+	
+23.9	
+	
+pF/ft	
+	
+	
+[78.41]	
+	
+[pF/m]	
+Nominal Inductance	
+	
+0.06	
+	
+uH/ft	
+	
+	
+[0.2]	
+	
+[uH/m]	
+Input Power (Peak)	
+	
+	
+16	
+kWatts	
+ 	 	
+	
+	
+	
+	
+	
+	
+	
+	
+Performance by Frequency Band
+                                                                                                              .
+	 Description	
+F1	
+F2	
+F3	
+F4	
+F5	
+Units   
+Frequency	
+50	
+150	
+220	
+450	
+900	
+MHz	
+Attenuation, Typ	
+0.9	
+1.5	
+1.9	
+2.7	
+3.9	
+dB/100ft	
+	
+2.95	
+4.92	
+6.23	
+8.86	
+12.8	
+dB/100m	
+	
+	
+	
+	
+	
+	
+	
+Power In (CW), Max	 2,570	
+1,470	
+1,200	
+830	
+580	
+Watts	
+	 	
+                                                                                     
+                                                                                                              .
+	 Description	
+F6	
+F7	
+F8	
+F9	
+F10	
+Units   
+Frequency	
+1.5	
+1.8	
+2	
+2.5	
+5.8	
+GHz	
+Attenuation, Typ	
+5.1	
+5.7	
+6	
+6.8	
+10.8	
+dB/100ft	
+	
+16.73	
+18.7	
+19.69	
+22.31	
+35.43	
+dB/100m	
+	
+	
+	
+	
+	
+	
+	
+Power In (CW), Max	
+440	
+400	
+370	
+330	
+210	
+Watts	
+	 	
+                                                                                     
+Mechanical Specifications
+Diameter	
+0.405 in [10.29 mm]
+Weight	
+0.067 lbs/ft [0.1 kg/m]
+.
+Min. Bend Radius (Installation)	
+1 in [25.4 mm]
+Min. Bend Radius (Repeated)	
+4 in [101.6 mm]
+Times Microwave LMR-400 Low Loss Flexible Coax 
+Cable Black PE Jacket
+Fairview Microwave
+301 Leora Ln., Suite 100
+Lewisville, TX 75056
+Tel: 1-800-715-4396 / (972) 649-6678 
+Fax: (972) 649-6689
+www.fairviewmicrowave.com
+sales@fairviewmicrowave.com
+Configuration:
+•	Low Loss, Outdoor Flexible Cable
+•	2 Shield(s)
+Features:
+•	Flexible Low Loss Communica­
+tions Coax
+•	Replacement for Air Dielectric 
+type RG8 cable
+•	Double Shields provides RF 
+Shielding in excess of 90 db
+•	Low Loss size for size compared 
+to standard flexible cable
+ LMR-400
+DATA SHEET"
+https://www.mcgillmicrowave.com/product/lmr-600-75/?attachment_id=2242&download_file=otci43pi6t90o,cable,"(800) TMS-COAX  •   www.timesmicrowave.com
+110
+TIMES MICROWAVE SYSTEMS
+LMR
+®-600-75 Ohm 
+Flexible Low Loss Coaxial Cable
+Construction Specifications
+	 Description	
+Material	
+In.	
+(mm)
+	
+	 Inner Conductor	
+Solid BCCAI	
+0.108	
+(2.74)
+	 Dielectric	
+Foam PE	
+0.455	
+(11.56)	
+	 Outer Conductor	
+Aluminum Tape	
+0.461	
+(11.71)	
+	 Overall Braid	
+Tinned Copper	
+0.490	
+(12.45)	
+ 	 Jacket	
+Black PE	
+0.590	
+(14.99)
+• 	LMR
+® -75 standard is a UV Resistant Polyethylene 
+jacketed cable designed for 20-year service outdoor use. 
+ 
+The bending and handling characteristics are significantly 
+ 
+better than any smooth wall or corrugated hard-line 
+cables. 
+• 	Flexibility and bendability are hallmarks of the LMR-
+600-75 
+cable 
+design. 
+The 
+flexible 
+outer 
+conductor 
+enables 
+ 
+the tightest bend radius available for any cable of similar 
+ 
+size and performance.
+• 	Low Loss is another hallmark feature of LMR-600-
+75.  Size for size LMR-75 has the lowest loss of any 
+flexible cable and comparable loss to semirigid hard-line 
+ 
+cables.
+• 	RF Shielding is 50 dB greater than typical single 
+shielded coax (40 dB).  The multi-ply bonded foil outer 
+ 
+conductor is rated conservatively at > 90 dB (i.e. >180 
+dB between two adjacent cables). 
+• 	Weatherability: LMR-600-75 cables designed for 
+outdoor exposure incorporate the best materials for UV 
+ 
+resistance and have life expectancy in excess of 20 years.
+• 	Connectors: Standard available connectors include 
+type-N and type-F male plug with 75 ohm interface. Most 
+ 
+LMR-75 connectors are the EZ install type with crimp 
+outer and non-solder center contact attachment.
+• 	Cable Assemblies: All LMR-600-75 cable types are 
+available as pre-terminated cable assemblies. Refer to 
+ 
+the section on FlexTech for further details. 
+Ideal for…
+	 •	Video Applications-CCTV, CATV, baseband or broadband
+	 •	In-Building Feeder Runs
+	 •	Any 75 ohm Wireless Application requiring an easily routed, 
+	 	 low loss RF cable
+LMR-600-75
+           Environmental Specifications
+	
+Performance Property	
+0F	
+oC
+	
+Installation Temperature Range	
+-40/+185	
+-40/+85
+	
+Storage Temperature Range	
+-94/+185	
+-70/+85
+	
+Operating Temperature Range	
+-40/+185	
+-40/+85
+Mechanical Specifications
+	 Performance Property	
+Units	
+US	
+(metric)
+	
+	 Bend Radius: installation	
+in. (mm)	
+1.5	
+(38.1)
+	 Bend Radius: repeated	
+in. (mm)	
+6.0	
+(152.4)
+	 Bending Moment	
+ft-lb (N-m)	
+2.75	
+(3.73)
+	 Weight	
+lb/ft (kg/m)	
+0.131	
+(0.20)
+	 Tensile Strength	
+lb (kg)	
+350	
+(158.9)
+	 Flat Plate Crush	
+lb/in. (kg/mm)	
+60	
+(1.07)
+	
+Part Description
+	 	
+	
+	
+	
+Stock	
+	
+    Part Number	
+Application	
+Jacket	
+ Color	
+Code	
+	 LMR-600-75 	
+Indoor/Outdoor	
+PE	
+Black	
+54148
+	 LMR-600-75-DB	
+Outdoor	
+PE	
+Black	
+54220"
+https://timesmicrowave.com/wp-content/uploads/2022/03/lmr-100a-coax-cables-datasheet.pdf,cable,"(800) TMS-COAX  •   www.timesmicrowave.com
+10
+TIMES MICROWAVE SYSTEMS
+LMR
+®    100A Flexible Low Loss Communications 
+Coax
+LMR-100A
+Ideal for…
+	 •	Drop-in Replacement for RG-316/RG-174 (uses standard connectors)
+	 •	Jumper Assemblies in Wireless Communications Systems
+	 •	Short Antenna Feeder runs 
+	 •	Any application (e.g. WLL, GPS, LMR, WLAN, WISP, WiMax, 
+	 	 SCADA, Mobile Antennas) requiring an easily routed, 
+	 	 low loss RF cable
+	 	
+Part Description	
+	
+	
+Stock	
+	 Part Number	
+Application	
+Jacket	  Color	
+Code
+LMR-100A-FR	
+Indoor/Outdoor-FR	
+  FRPE	   Black	    54037
+LMR-100A-PVC	
+Indoor/Outdoor	
+   PVC	   Black	    54119
+LMR-100A-PVC-W  	 Indoor/Outdoor	
+   PVC	   White	    54200
+LMR-100A-UF	
+Indoor	
+TPE	
+Black	
+   54274
+LMR-100-PUR	
+Indoor	
+ PUR	
+Black	
+   54363
+PVC = Poly Vinyl Chloride
+Construction Specifications
+	 Description	
+Material	
+In.	
+(mm)
+	
+    Inner Conductor	
+Solid BCCS	
+0.018	
+(0.46)	
+	  Dielectric	
+Solid PE	
+0.060	
+(1.52)	
+	  Outer Conductor	
+Aluminum Tape	
+0.065	
+(1.65)	
+	  Overall Braid	
+Tinned Copper	
+0.083	
+(2.11)	
+	  Jacket	
+See Table	
+0.110	
+(2.79)
+Attenuation vs. Frequency (typical)
+Attenuation
+(db per 100 feet)
+100
+10
+ 
+1
+              10                          	
+                 100                       	
+                     1,000                                10,000
+Frequency (MHz)
+ Calculate Attenuation = (0.709140) •   FMHz  +  (0.001740) •  FMHz (interactive calculator available at http://www.timesmicrowave/telecom)
+Attenuation: VSWR=1.0 ; Ambient = +25°C (77°F) Power: VSWR=1.0; Ambient = +40°C; Inner Conductor = 100°C (212°F);
+Sea Level; dry air; atmospheric pressure; no solar loading
+	 Frequency (MHz)	
+30	
+50	
+150	
+220	
+450	
+900	
+1500	
+1800	
+2000	
+2500	
+5800	
+80000	
+Attenuation dB/100 ft	
+3.9	
+5.1	
+8.9	
+10.9	
+15.8	
+22.8	
+30.1	
+33.2	
+35.2	
+39.8	
+64.1	
+77.3	
+Attenuation dB/100 m	
+12.9	
+16.7	
+29.4	
+35.8	
+51.9	
+74.9	
+98.7	
+109.0	
+115.5	
+130.6	
+210.3	
+253.8	
+Avg. Power kW	
+0.230	
+0.180	
+0.100	
+0.083	
+0.057	
+0.039	
+0.029	
+0.027	
+0.025	
+0.022	
+0.013	
+0.01"
+https://www.cicoil.com/flat-cable/data-video-cables/flexible-coaxial-cables?task=callelement&format=raw&item_id=847&element=c024c413-b5f8-4699-9dbb-f8880ce97040&method=download,cable,"Data & Video
+NEED 
+CUSTOMS?
+NEED 
+CUSTOMS?
+See Page
+25
+See Page
+25
+RoHS
+COMPLIANT
+REACH
+COMPLIANT
+FAA
+FLAME TESTED
+UL
+MEETS 94V-0
+14
+661-295-1295   n   Cicoil.com
+Flexible Flat Cables & Cable Assemblies
+Options	
+Page
+Cable Specifications
+All engineering values are nominal and subject to change.
+Additional Conductors	
+26
+Low Friction Options	
+28
+StripMount™ Integrated Mounting Strip	
+28
+Integrated Tubing	
+29
+SuperTuff™ Jacket	
+29
+Colored Jacketing	
+29
+Strip and Tin Cable Ends	
+29
+FlexRail™ Self-Supporting Cable	
+30
+Complete Assembly	
+31
+Coax / p1of1 / 2019-10-09
+Environmental
+Temperature Rating: -65°C to +165°C
+Moisture Rating: Submersible, Salt Water Resistant
+Clean Room Rating: Class 1, Zero Particulates
+Extreme Environments: Sunlight, UV Light, Alcohol, Chemical and Oil Resistant
+Electrical
+Outer Jacket Dielectric Strength: 450 volts/mil (17.7 kv/mm)
+See Electrical Rating Chart on Page 47
+Mechanical
+Conductors: Ultra flexible, finely stranded, 
+tinned copper
+Shielding: Ultra flexible, braided shields, with 
+90% nominal coverage
+Minimum Bend Radius: 
+- 6x cable height for intermediate flex 
+- 10x cable height for continuous flex
+Flex Life: 10,000,000 cycles nominal
+Outer Jacket Durometer Rating: 65 (Shore A)
+Applications 
+Aerospace Surveilance, Surgical Robotics, 
+Medical Diagnostics, Automated Test Systems
+■
+■Ideal for High Performance Video Transmission Applications
+■
+■Ultra Flexible Cable for Confined Area and Continuous Motion 
+■
+■1 - 8 Individual 50 or 75 Ohm Coax Conductors
+Cicoil Flexible Coaxial Cables are ideal for high speed data and 
+video applications that require flexibility, high & low temperature 
+resistance and protection from very rugged environments. These 
+50 ohm and 75 ohm low capacitance cables feature low line to line 
+skew, maximum signal integrity, low EMI and suppress crosstalk. 
+And the flat cable construction guarantees clear, high speed data 
+transmission, even in the toughest of environments.
+Flexible Coaxial Cables
+Cable
+Ohms
+Amp Rating1
+Conductor 
+Gauge
+No. of 
+Conductors
+Dimensions [inches]
+Part
+Number
+Width
+Height
+50
+3
+30 AWG
+1
+0.12
+0.12
+FC50-01
+2
+0.25
+0.12
+FC50-02
+4
+0.50
+0.12
+FC50-04
+8
+1.01
+0.12
+FC50-08
+75
+3
+30 AWG
+1
+0.18
+0.18
+FC75-01
+2
+0.36
+0.18
+FC75-02
+4
+0.73
+0.18
+FC75-04
+8
+1.47
+0.18
+FC75-08
+Note
+1.	 Amp rating is the maximum value for each conductor at room temperature of 70°F (21°C).  Amp rating decreases as 
+temperature increases. 
+Dimensions
+50 Ohm
+J1
+J1
+J1
+J1
+J1
+J1
+J1
+J1
+CABLE LENGTH
+Cable Assemblies
+Cable Length 
+(feet)
+Part Number 
+Addition
+3
+-CA003
+6
+-CA006
+12
+-CA012
+Notes
+1.	 Append onto base cable Part Number for 
+complete assembly.
+Example: FC50-01-CA003
+2.	 Connector ratings may differ from cable 
+ratings; refer to manufacturer specifications.
+Please contact Cicoil for other 
+connectors and length options.
+Assembly Dimensions
+Connectors
+• Signal (J1): SMA Male
+WIDTH
+WIDTH
+HEIGHT
+HEIGHT
+75 Ohm"
+https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2153/9272_Series%28in%29.pdf,cable,"For more Information 
+please call
+1-800-Belden1
+Description:
+20 AWG stranded (7x28) .038"" tinned copper conductors, polyethylene insulation, tinned copper braid
+shield (93% Coverage), PVC jacket.
+Physical Characteristics (Overall)
+Conductor
+AWG:
+# Pairs AWG Stranding Conductor Material Dia. (in.)
+1
+20
+7x28
+TC - Tinned Copper .038
+Insulation
+Insulation Material:
+Insulation Material
+PE - Polyethylene
+Outer Shield
+Outer Shield Material:
+Type Outer Shield Material Coverage (%)
+Braid TC - Tinned Copper
+93
+Outer Jacket
+Outer Jacket Material:
+Outer Jacket Material
+PVC - Polyvinyl Chloride
+Overall Cable
+Overall Nominal Diameter:
+0.244 in.
+Pair
+Pair Color Code Chart:
+Number Color
+1
+Clear & Blue
+Pair Lay Length & Direction:
+Lay Length (in.) Lay Length Twists/ft. (twist/ft)
+4.1
+Mechanical Characteristics (Overall)
+Operating Temperature Range:
+-20°C To +60°C
+UL Temperature Rating:
+60°C (UL AWM Style 2092)
+Bulk Cable Weight:
+39 lbs/1000 ft.
+Max. Recommended Pulling Tension:
+68 lbs.
+Min. Bend Radius (Install)/Minor Axis:
+2.500 in.
+Applicable Specifications and Agency Compliance (Overall)
+Applicable Standards & Environmental Programs
+NEC/(UL) Specification:
+CM
+CEC/C(UL) Specification:
+CM
+ 
+Page 1 of 3 
+02-24-2012
+Detailed Specifications & Technical Data
+ENGLISH MEASUREMENT VERSION
+9272  Twinax - Twinaxial Cable"
+https://www.mcgillmicrowave.com/product/rg400/?attachment_id=18339&download_file=8jef9ckuwt9c5,cable,"Construction Specifications  
+Description 
+Material 
+Size (mm) 
+Inner Conductor 
+Silver Plated Copper 
+19/0.20mm  
+Dielectric 
+PTFE 
+2.95±0.10mm  
+Outer Conductor 
+Silver Plated Copper  
+112*0.12mm  
+Overall Braid 
+Silver Plated Copper  
+112*0.12mm  
+Jacket 
+FEP 
+4.95±0.10 mm  
+Contact us for more details 
+Unit 5, Block 9 Mitchelston Ind Est, Kirkcaldy, Fife, KY1 3PE, UK 
+Email: contact@mcgillmicrowave.com        
+Tel: UK +44 (0)1592 655428 
+www.mcgillmicrowave.com 
+ 
+RG400 Coaxial Cable  
+McGill Part No:  RG400-MM 
+Electrical Specifications  
+Description 
+Unit 
+Value 
+Impedance 
+ohms  
+50 
+Capacitance  
+pF/m 
+105 
+Velocity of            
+Propagation 
+% 
+70 
+Max Voltage 
+VMS 
+1,400 
+Max Frequency 
+MHz 
+3,000 
+Temperature Range 
+-40/+200C"
+https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2524E0114&DocType=Customer+Drawing&DocLang=English,cable,
+https://www.molex.com/pdm_docs/sd/1001935047_sd.pdf,cable,"TITLE 
+PART No. 
+REV 
+PAGE 
+ 
+ 
+ 
+ 
+1 of 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rev 
+DCR 
+Description 
+App’d 
+Date 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Address: 26 Milford Road, South Grafton, MA 01560   Phone: (508)-839-5987   Fax: (508)-839-4128 
+This document is the
+property of TEMP-FLEX.
+It may not be disclosed,
+reproduced, or otherwise
+used without permission.
+1.422±0.076mm
+(0.056±0.003"")
+Signal Conductor
+Insulation
+Inner Shield
+Braid Shield
+Jacket
+1001935047
+Flexible Microwave Coax,
+Foamed Dielectric, 28 AWG
+B
+8/4/15
+Preliminary Release.
+A
+KP
+4581
+Freq 
+(GHz) 
+Max. 
+Attenuation* 
+(dB/100 ft) 
+Max. Power* 
+(CW) 
+1 
+33.48 
+49.3 
+2 
+47.74 
+34.6 
+4 
+68.30 
+24.2 
+8 
+98.15 
+16.9 
+12 
+121.69 
+13.6 
+18 
+151.24 
+11.0 
+26.5 
+186.63 
+8.9 
+34 
+214.06 
+7.8 
+40 
+234.26 
+7.1 
+50 
+265.44 
+6.3 
+Attn=K1 x SQRT(F MHz)+K2 x(F MHz) 
+K1=1.0376 
+K2=0.000669 
+* 23°C and Sea Level 
+ 
+CONSTRUCTION
+Signal Conductor:  0.320±0.0025mm (0.0126±0.0001""), Silver Plated Copper per ASTM B-298
+Insulation: Foamed Fluoropolymer, 0.914±0.018mm (0.0360±0.0007"") OD
+Inner Shield: Helically Overlapped Flat Silver Plated Copper per ASTM B-298
+Braid Shield: 46 AWG Silver Plated Copper per ASTM B-298, >89% Coverage Ref.
+Overall Shield Diameter: 1.168±0.051mm (0.046±0.002"")
+Jacket: FEP in accordance with MIL-DTL-17, Type IX
+Wall Thickness: 0.127mm (0.005"") Wall Thickness
+Color: Blue (Tint)
+ELECTRICAL
+Impedance: 50±1 ohms
+Propagation Delay: 4.236±0.026 ns/m (1.291±0.008 ns/ft)
+Velocity of Propagation: 78.7% Ref.
+Capacitance: 84.71 pF/m (25.82 pF/ft) Ref.
+MECHANICAL
+Operating Temperature: -65°C to 150°C Ref.
+Min. Static Bend Radius: 6.35mm (0.25"") Ref.
+B
+4802
+Revision to B. Update Insulation OD, VP%, Capacitance
+Add Mechanical Section,Attenuation Chart, Prop. Delay
+KP
+1/27/16"
+https://source.z2data.com/2023/9/4/2/45/59/497548/6177000/HUBERSUHNERG02232DDataSheet.pdf,cable,"Description
+G: RF cables with PE dielectrics
+RG174D/RD174 alternative, 50 Ohm, 6 GHz, 85°C, ø3.1 mm, PVC
+jacket
+Technical Data
+Construction
+Material
+Detail
+Diameter
+Centre conductor
+Copper
+Strand-07
+0.49 mm
+Dielectric
+PE (Polyethylene)
+1.5 mm
+Outer conductor
+Copper
+Braid, 96%
+2 mm
+Outer conductor
+Copper
+Braid, 93 %
+2.5 mm
+Jacket
+PVC II (low migration)
+RAL 9005 - bk
+3.1 mm +/- 0.1
+Print: HUBER+SUHNER G 02232 D 50 Ohm (production order number)
+Electrical Data
+Impedance
+50 Ω +/- 2
+Operating Frequency
+6 GHz
+Capacitance
+101 pF/m
+Velocity of signal propagation
+66 %
+Signal delay
+5.03 ns/m
+Screening effectiveness
+≥ 78 dB (up to 1 GHz)
+Operating voltage
+≤ 1.5 kVrms (at sea level)
+Test voltage
+3 kVrms (50 Hz/1 min)
+Mechanical Data
+Weight
+2.1 kg/100 m
+Min. bending radius
+static
+15 mm
+30 mm
+Environmental Data
+Temperature range
+-25 °C ... +85 °C
+Installation temperature
+-20 °C... +60 °C
+Halogen free
+No
+2011/65/EU (RoHS - including
+2015/863 and 2017/2102)
+compliant
+1907/2006/EC (REACH)
+compliant
+Additional Information
+Remarks
+(For details refer to the HUBER+SUHNER RF CABLES GENERAL CATALOGUE or contact your nearest HUBER+SUHNER partner)
+Suitable Connectors
+Cable group
+U4 2 mm / 50 Ohm
+Data Sheet
+Flexible RF cable
+G_02232_D
+Item: 22510112
+Page 1/2
+Document: DOC-0000401637 Y / PDO I / date of publication: 14.10.2020 17:52:39 / uncontrolled copy"
+https://catalog.belden.com/techdata/EN/9239_techdata.pdf,cable,"Product: 9239  
+Audio Coax, Low Noise, RG-174, 26 AWG Str BCCS, 90% TC Brd, PVC Jkt
+Product Description
+Audio Coax, Low Noise, RG-174, 26 AWG (7x34) Bare Copper Covered Steel Conductor, PE Insulation, PE Conductive Layer, 90% Tinned Copper Braid
+Shield, PVC Jacket
+Technical Specifications
+Product Overview
+Suitable Applications:
+Low noise microphone, Analog audio, Instrumentation
+Construction Details
+RG Type:
+174
+Conductor
+No. of Elements
+Size
+Stranding
+Nom. Diameter
+Material
+1
+26 AWG
+7x34
+0.006 in
+BCCS - Bare Copper Covered Steel
+Insulation
+Material
+Nom. Insulation Diameter Color Code
+PE - Polyethylene
+0.044 in (1.1 mm)
+Clear, Black
+PVC - Polyvinyl Chloride (Conductive)
+0.056 in (1.4 mm)
+Outer Shield
+Layer
+Outer Shield Type
+Material
+Coverage
+1
+Braid
+Tinned Copper (TC) 90%
+Outer Jacket
+Material
+Nom. Diameter
+PVC - Polyvinyl Chloride 0.101 in (2.57 mm)
+Overall Cable Diameter (Nominal): 0.101 in (2.57 mm)
+Electrical Characteristics
+Electricals
+Nom. Conductor DCR
+Nom. Outer Shield DCR
+Nom. Capacitance Cond-to-Shield
+Nom. Velocity of Prop.
+89.6 Ohm/1000ft
+14 Ohm/1000ft (46 Ohm/km) 44 pF/ft (140 pF/m)
+57%
+Voltage
+Voltage Rating
+1100 V
+Electrical Characteristics Notes:
+NBS Low Noise Test (Modified), MIL-DTL-17J Paragraph 4.8.14, 8 mV Peak to Peak Max
+Mechanical Characteristics
+Temperature
+Operating
+-40°C To +60°C"
+https://catalog.belden.com/techdata/EN/8216_techdata.pdf,cable,"Product: 8216  
+50 Ohm Wireless Transmission Coax, RG-174, 26 AWG Str BCCS, 90% TC
+Braid, PVC Jkt
+Product Description
+50 Ohm Wireless Transmission Coax, RG-174, 26 AWG (7x34) Bare Copper Covered Steel Conductor , PE Insulation, 90% Tinned Copper Braid Shield, PVC
+Jacket
+Technical Specifications
+Product Overview
+Suitable Applications:
+Point-to-point and point-to-multipoint wireless antenna communication; Wireless microphones, Two-Way Radios, Amateur (Ham) Radio, Low Power FM, GPS, RFID (Radio
+Frequency Identification)
+Construction Details
+RG Type:
+174
+Conductor
+Size
+Stranding
+Nom. Diameter
+Material
+26 AWG
+7x34
+0.019 in
+BCCS - Bare Copper Covered Steel
+Insulation
+Material
+Nom. Insulation Diameter Color Code
+PE - Polyethylene
+0.060 in (1.5 mm)
+White
+Outer Shield
+Outer Shield Type
+Material
+Coverage
+Braid
+Tinned Copper (TC) 90%
+Outer Jacket
+Material
+Nom. Diameter
+PVC - Polyvinyl Chloride 0.110 in (2.79 mm)
+Overall Cable Diameter
+(Nominal):
+0.110 in (2.79 mm)
+Electrical Characteristics
+Attenuation
+Frequency Nom. Attenuation
+1 MHz
+1.9 dB/100ft
+10 MHz
+3.3 dB/100ft
+50 MHz
+5.8 dB/100ft
+100 MHz
+8.4 dB/100ft
+200 MHz
+12.5 dB/100ft
+400 MHz
+19.0 dB/100ft
+700 MHz
+27.0 dB/100ft
+900 MHz
+31.0 dB/100ft
+1000 MHz
+34.0 dB/100ft
+Power Rating
+Frequency Max. Power Rating"
+https://catalog.belden.com/techdata/EN/9463_techdata.pdf,cable,"Product: 9463  
+Blue Hose®, 1 Pr #20 Str TC, PE Ins Blu, Clr, Foil+TC Brd, PVC Jkt, CM
+Product Description
+Blue Hose® for Data Highway Plus, 1 Pair 20AWG (7x28) Tinned Copper, PE Insulation Blue & Clear, Overall Beldfoil®+Tinned Copper Braid(55%) Shield,
+Blue PVC Outer Jacket, CM
+Technical Specifications
+Product Overview
+Suitable Applications:
+harsh environment, Allen Bradley Data Highway communication interface between PLC processors, I/O devices, operator interfaces, computers and other intelligent devices, PLC
+processor interlocking, peer-to-peer messaging, remote programming, troubleshooting, I/O updates, etc.
+Construction Details
+Conductor
+Element No. of Elements
+Size
+Stranding
+Material
+Pair(s)
+1
+20 AWG
+7x28
+TC - Tinned Copper
+Insulation
+Element
+Material
+Nom. Thickness
+Nom. Insulation Diameter
+Color Code
+Notes
+Pair(s)
+PE - Polyethylene
+0.019 in (0.48 mm) 0.0755 in (1.92 mm)
+Clear & Blue
+Twinax with rod fillers
+Outer Shield
+Shield Type
+Material
+Coverage
+Drainwire Type
+Tape
+Bi-Laminate (Alum+Poly)
+100%
+20 AWG (7x28) TC
+Braid
+Tinned Copper (TC)
+60%
+Outer Jacket
+Material
+Nom. Thickness
+Nom. Diameter
+PVC - Polyvinyl Chloride 0.037 in (0.94 mm) 0.238 in (6.05 mm)
+Table Notes:
+Jacket OD +/- 0.003
+Overall Cable Diameter
+(Nominal):
+0.238 in (6.05 mm)
+Electrical Characteristics
+Electricals
+Element
+Nom. Conductor
+DCR
+Nom. Capacitance
+Cond-to-Cond
+Nom. Capacitance
+Cond-to-Shield
+Nom. Capacitance Cond-to-Other (Conds +
+Shield)
+Nom. Characteristic
+Impedence
+Nom. Velocity of
+Prop.
+Pair(s)
+9.5 Ohm/1000ft
+19.7 pF/ft (64.6 pF/m)
+37 pF/ft
+36 pF/ft
+78 Ohm
+66%
+Nom. Outer Shield DCR:
+4.1 Ohm/1000ft (13 Ohm/km)
+High Frequency (Nominal/Typical)
+Element Frequency [MHz] Nom. Insertion Loss (Attenuation)
+Pair(s)
+1
+0.6 dB/100ft
+10
+2.1 dB/100ft
+50
+5.0 dB/100ft
+100
+7.5 dB/100ft
+200
+11.0 dB/100ft
+400
+16.0 dB/100ft"
+https://www.molex.com/pdm_docs/sd/1001935086_sd.pdf,cable,"TITLE 
+PART No. 
+REV 
+PAGE 
+ 
+ 
+ 
+ 
+1 of 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rev 
+DCR 
+Description 
+App’d 
+Date 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Address: 26 Milford Road, South Grafton, MA 01560   Phone: (508)-839-5987   Fax: (508)-839-4128 
+This document is the
+property of TEMP-FLEX.
+It may not be disclosed,
+reproduced, or otherwise
+used without permission.
+CONSTRUCTION
+Signal Conductor:  0.574±0.0051mm (0.0226±0.0002""), Silver Plated Copper per ASTM B-298
+Insulation: Foamed Fluoropolymer, 1.615±0.0254mm (0.0636±0.0010"")  OD
+Inner Shield: Helically Overlapped Flat Silver Plated Copper per ASTM B-298
+Braid Shield: 40 AWG Silver Plated Copper per ASTM B-298, >90% Coverage Ref.
+Overall Shield Diameter:  2.108±0.076mm (0.083±0.003"")
+Jacket: FEP in accordance with MIL-DTL-17, Type IX
+Wall Thickness: 0.216mm (0.0085"")
+Color: Blue (Tint)
+ELECTRICAL
+Impedance: 50±1 ohms
+Propagation Delay: 4.216±0.033 ns/m (1.285±0.010 ns/ft)
+Velocity of Propagation: 79.4% Ref.
+Capacitance:  83.37 pF/m (25.59 pF/ft) Ref.
+MECHANICAL
+Operating Temperature: -65°C to 150°C Ref.
+Min. Static Bend Radius: 8.89mm (0.35"") Ref.
+2.540±0.127mm
+(0.100±0.005"")
+Signal Conductor
+Insulation
+Inner Shield
+Braid Shield
+Jacket
+1001935086
+Flexible Microwave Coax,
+Foamed Dielectric, 23 AWG
+G
+2/19/19
+G
+5679
+KP
+F
+Updated Max Power Table.
+KP
+6/8/18
+5564
+Freq 
+(GHz) 
+Max. 
+Attenuation* 
+(dB/100 ft) 
+Max. Power* 
+(CW) 
+1 
+19.67 
+135.7 
+2 
+28.34 
+94.2 
+4 
+41.12 
+64.9 
+8 
+60.24 
+44.3 
+12 
+75.75 
+35.2 
+18 
+95.72 
+27.9 
+26.5 
+120.30 
+22.2 
+34 
+139.82 
+19.1 
+40 
+154.44 
+17.3 
+50 
+177.38 
+15.0 
+Attn=K1 x SQRT(F MHz)+K2 x(F MHz) 
+K1=0.5937 
+K2=0.000892 
+* 23°C and Sea Level 
+ 
+Updated Prop Delay Value."
+https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2019D0309&DocType=Customer+Drawing&DocLang=English,cable,"SPECIFICATION CONTROL DRAWING 
+ 
+CHEMINAX 
+ 
+ 
+Date: 
+ 
+Revision: 
+ 
+THIS SPECIFICATION SHEET FORMS A PART OF THE LATEST ISSUE OF RAYCHEM SPECIFICATION 1200. 
+CONSTRUCTION DETAILS 
+ELECTRICAL CHARACTERISTICS 
+DIMENSIONS ARE NOMINAL VALUES IN INCHES, UNLESS 
+OTHERWISE DESIGNATED. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ADDITIONAL REQUIREMENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designate outer jacket color with a dash number in accordance 
+with MIL-STD-681.  Unless otherwise specified, outer jacket color 
+will be black designated by a ""-0"" appended to the part number, 
+(e.g. 2019D0309-0). 
+Other codes and suffixes may be added to the part number, as 
+necessary, to capture any additional requirements imposed by 
+the purchase order. 
+ 
+ ENGINEERING REFERENCE 
+Users should evaluate the suitability of this product for their application.  Specifications are subject to change without notice.  Tyco Electronics Corporation also 
+reserves the right to make changes in materials or processing, which do not affect compliance with any specification, without notification to Buyer. 
+Page 1 of 1 
+Rayfoam, Thermorad, Cheminax, Raychem, TE Connectivity, TE connectivity (logo), and TE (logo) are trademarks. 
+ 
+Raychem Wire & Cable 
+501 Oakside Avenue 
+Redwood City, California  94063-3800 
+Phone:  1-800-227-8816   Fax:  1-650-361-6297 
+THIS SPECIFICATION SHEET TAKES PRECEDENCE OVER DOCUMENTS REFERENCED HEREIN.  
+REFERENCED DOCUMENTS SHALL BE OF THE ISSUE IN EFFECT ON DATE OF INVITATION FOR BID. 
+ 
+© 2005-2014 Tyco Electronics Corporation.  All rights reserved. 
+ 
+ 
+ 
+2019D0309 
+ 
+120 OHM, AWG 19, 19 STRANDS OF 0.23 mm, 
+TWINAXIAL CABLE, J1939-11 COMPLIANT 
+ 
+10-2-14 
+ 
+F 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHARACTERISTIC IMPEDANCE 
+120 ± 12 ohms, Method D at 1 MHz 
+ 
+with shield grounded 
+MUTUAL CAPACITANCE 
+10.5 pF/ft. (nominal) at 1 MHz 
+VELOCITY OF PROPAGATION 
+74% (nominal) 
+SURFACE TRANSFER IMPEDANCE 
+225 milliohms/meter (maximum) 
+(per MIL-DTL-85485) 
+at 0.1 to 1 MHz 
+ 
+ 
+ELECTRICAL 
+CONDUCTOR RESISTANCE 
+7.47 ohms/1000 ft. (nominal) 
+(prior to cabling) 
+INSULATION RESISTANCE 
+10,000 megohms (minimum) for 1000 ft. 
+JACKET FLAWS 
+SPARK TEST 
+1.0 kV (rms) 
+IMPULSE TEST 
+6.0 kV (peak) 
+VOLTAGE WITHSTAND (DIELECTRIC) 
+1500 volts (rms) 
+ENVIRONMENTAL 
+FLAMMABILITY 
+Method C 
+HEAT SHOCK 
+225°C 
+LOW TEMPERATURE-COLD BEND 
+-55°C/11.0 inch mandrel 
+VOLTAGE WITHSTAND 
+1000 volts (rms), 1 minute 
+(Post Environmental) 
+ 
+PHYSICAL 
+INSULATION (DIELECTRIC) 
+ ELONGATION 
+100% (minimum) 
+ TENSILE STRENGTH 
+1000 lbf/in2 (minimum) 
+JACKET 
+ELONGATION 
+200% (minimum) 
+TENSILE STRENGTH 
+2000 lbf/in2 (minimum) 
+JACKET THICKNESS 
+.025 inch (minimum), 
+ 
+.030 inch (nominal), 
+ 
+.040 inch (maximum) 
+WRAP 
+.003 inch thick (nominal), 
+ 
+10% overlap (minimum) 
+ 
+CABLE IDENTIFICATION:  Outer jacket shall be marked in white ink at 12 inch 
+(nominal) intervals as follows:  ""RAYCHEM  J1939-11  0.75 mm2"" 
+ 
+ 
+ 
+WEIGHT 
+54.0 lbs/1000 ft. (nominal) 
+ 
+ 
+ 
+TEMPERATURE RATING 
+125°C (maximum) 
+ 
+.0419 
+.328 
+   .125 
+± .003 
+.388 
+(nominal) 
+.433 
+(maximum) 
+CONDUCTORS 
+   AWG 19, 
+   19 Strands of 0.23 mm, 
+   Bare Copper 
+DIELECTRICS 
+   Rayfoam FS 
+   Colors - Yellow/Green 
+WRAP 
+   Aluminum-PET- 
+   Aluminum 
+JACKET 
+   Thermorad F 
+ 
+DRAINWIRE 
+   AWG 19, 
+   19 Strands of 0.23 mm, 
+   Bare Copper 
+FILLERS 
+   Polyolefin 
+.115 
+.0419"
+https://catalog.belden.com/techdata/EN/1525A_techdata.pdf,cable,"Product: 1525A  
+Broadband Coax, Series 11, 14 AWG Solid BCCS, Foil + 60% AL Braid, PE
+Jkt, Waterblocked
+Product Description
+Broadband Coax, Series 11, 14 AWG Solid Bare Copper Covered Steel Conductor, PE Insulation, Foil + 60% Aluminum Braid Shield, PE Jacket, Waterblocked
+Technical Specifications
+Product Overview
+Suitable Applications:
+Broadband, Cable Television (CATV), RF drop cable, Over-The-Air (OTA) antennas
+Construction Details
+Series Type:
+11
+Conductor
+Size
+Stranding
+Nom. Diameter
+Material
+14 AWG
+Solid
+0.064 in
+BCCS - Bare Copper Covered Steel
+Insulation
+Material
+Nom. Insulation Diameter Color Code
+PE - Polyethylene (Foam)
+0.280 in (7.11 mm)
+White
+Outer Shield
+Layer
+Outer Shield Type
+Material
+Material Trade Name
+Coverage
+1
+Tape
+Tri-Laminate (Alum+Poly+Alum) Duobond® II
+100%
+2
+Braid
+Aluminum
+60%
+Waterblocking:
+Grease
+Outer Jacket
+Material
+Nom. Diameter
+PE - Polyethylene
+0.393 in (9.98 mm)
+Overall Cable Diameter (Nominal): 0.393 in (9.98 mm)
+Electrical Characteristics
+Return Loss (RL)
+Frequency
+Min. Structural Return Loss
+5 - 1000 MHz
+20 dB
+Attenuation
+Frequency Max. Attenuation
+5 MHz
+0.38 dB/100ft
+55 MHz
+0.96 dB/100ft
+211 MHz
+1.90 dB/100ft
+250 MHz
+2.05 dB/100ft
+270 MHz
+2.13 dB/100ft
+300 MHz
+2.25 dB/100ft
+330 MHz
+2.35 dB/100ft
+350 MHz
+2.42 dB/100ft"
+https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/695/086SC-2401_Ds.pdf,cable,"Construction / Mechanical Specification
+Electrical Specification
+Attenuation vs. Frequency
+Part Number: 086SC-2401
+50
+1.90
+6.23
+26
+1.25
+4.10
+40
+1.64
+5.38
+1.41
+8
+0.63
+2.07
+18
+1.01
+3.31
+4
+0.43
+Frequency (GHz)
+(dB / ft)
+(dB / m)
+1
+0.20
+0.66
+Low Loss Microwave Coax                           
+0.0201 in
+Cable Weight
+Minimum Static Bend Radius (<0.5Ω)
+0.30 in
+15.2 mm
+2.57 mm
+Section
+62 GHz
+>100 dB
+Cut off Frequency
+Shielding Effectiveness
+FEP
+0.1010 in
+70%
+29 pF/ft
+95 pF/m
+Operating Temperature
+4.76 ns/m
+-85ºF - 257ºF
+-65ºC - 125ºC
+Characteristic Impedance
+50 Ω ± 1 Ω
+Material Flammability Rating
+V-0 (UL 1354)
+A. Center Conductor
+B. Dielectric Insulation
+Capacitance
+Propagation Delay
+1.450 ± 0.01 ns/ft
+Velocity of Propagation
+Silver Plated Copper
+13 lbs/kft
+19.36 kg/km
+1.65 mm
+7.6 mm
+C/D. Inner / Outer Shield
+E. Outer Jacket
+Minimum Dynamic Bend Radius
+0.60 in
+0.51 mm
+Dimensions
+Material
+Silver Plated Copper
+FEP (High Purity)
+2.16 mm
+0.0650 in
+0.0850 in
+ 
+0.00
+0.25
+0.50
+0.75
+1.00
+1.25
+1.50
+1.75
+2.00
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+dB / FT 
+Frequency (GHz) 
+Attenuation vs. Frequency"
+https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=7824E0422&DocType=Customer+Drawing&DocLang=English,cable,"SPECIFICATION CONTROL DRAWING 
+ 
+CHEMINAX 
+ 
+ 
+Date: 
+Revision: 
+THIS SPECIFICATION SHEET FORMS A PART OF THE LATEST ISSUE OF RAYCHEM SPECIFICATION 1200. 
+CONSTRUCTION DETAILS 
+ELECTRICAL CHARACTERISTICS 
+DIMENSIONS ARE NOMINAL VALUES IN INCHES, UNLESS 
+OTHERWISE DESIGNATED. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ADDITIONAL REQUIREMENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designate outer jacket color with a dash number in accordance 
+with MIL-STD-681.  Unless otherwise specified, outer jacket color 
+will be translucent white designated by a ""-9X"" appended to the 
+part number, e.g. 7824E0422-9X. 
+ 
+A white laser markable outer jacket will be designated by a  
+""-9LM"" appended to the part number, e.g. 7824E0422-9LM. 
+ 
+Other codes and suffixes may be added to the part number, as 
+necessary, to capture any additional requirements imposed by 
+the purchase order. 
+ENGINEERING REFERENCE 
+Users should evaluate the suitability of this product for their application.  Specifications are subject to change without notice.  Tyco Electronics Corporation also 
+reserves the right to make changes in materials or processing, which do not affect compliance with any specification, without notification to Buyer. 
+Page 1 of 1 
+Cheminax, Raychem, TE Connectivity, TE connectivity (logo), and TE (logo) are trademarks. 
+ 
+Raychem Wire & Cable 
+501 Oakside Avenue 
+Redwood City, California  94063-3800 
+Phone:  1-800-522-6752   Fax:  1-650-361-6297 
+THIS SPECIFICATION SHEET TAKES PRECEDENCE OVER DOCUMENTS REFERENCED HEREIN.  
+REFERENCED DOCUMENTS SHALL BE OF THE ISSUE IN EFFECT ON DATE OF INVITATION FOR BID. 
+ 
+© 2016 Tyco Electronics Corporation.  All rights reserved. 
+ 
+ 
+ 
+7824E0422 
+ 
+78 OHM, AWG 24, 19 STRANDS OF AWG 36, DATA BUS CABLE 
+ 
+8-30-16 
+ 
+G 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHARACTERISTIC IMPEDANCE 
+78 ± 4 ohms, Method C at 1 MHz 
+CAPACITANCE 
+CONDUCTOR TO CONDUCTOR 
+20 pF/ft. (maximum) 
+VELOCITY OF PROPAGATION 
+74% (nominal) 
+ATTENUATION 
+10 dB/100 ft. (nominal) at 100 MHz 
+ 
+ 
+ 
+ELECTRICAL 
+CONDUCTOR RESISTANCE 
+23.0 ohms/1000 ft. (nominal) 
+(prior to cabling) 
+INSULATION RESISTANCE 
+10,000 megohms (minimum)
+ 
+for 1000 ft. 
+JACKET FLAWS 
+SPARK TEST 
+1.0 kV (rms) 
+IMPULSE TEST 
+6.0 kV (peak) 
+VOLTAGE WITHSTAND (DIELECTRIC) 
+1000 volts (rms) (minimum) 
+ENVIRONMENTAL 
+FLAMMABILITY 
+Method B 
+HEAT SHOCK 
+225°C 
+LOW TEMPERATURE-COLD BEND 
+-55°C/3.75 inch mandrel 
+UV LASER MARKING 
+(Per SAE AS4373, Method 1001) 
+For 7824E0422-9LM only:  
+ 
+SOLID LASER 
+ 
+67% (minimum) 
+ 
+DOT MATRIX LASER 
+ 
+60% (minimum) 
+VOLTAGE WITHSTAND 
+1000 volts (rms), 1 minute 
+(Post Environmental) 
+ 
+PHYSICAL 
+INSULATION (DIELECTRIC) 
+(prior to cabling) 
+ ELONGATION 
+50% (minimum) 
+ TENSILE STRENGTH 
+600 lbf/in2 (minimum) 
+JACKET 
+ELONGATION 
+200% (minimum) 
+TENSILE STRENGTH 
+2000 lbf/in2 (minimum) 
+JACKET THICKNESS 
+.012 inch (nominal) 
+SHIELD COVERAGE 
+90% (minimum) 
+ 
+ 
+ 
+WEIGHT 
+14.2 lbs/1000 ft. (nominal) 
+ 
+TEMPERATURE RATING 
+200°C (maximum) 
+.0250 
+.111 
+.047 
+.135 
+CONDUCTORS 
+   AWG 24, 
+   19 Strands of AWG 36, 
+   Silver-Coated Copper 
+DIELECTRICS 
+   Foamed FEP 
+   Colors - Light Blue/White 
+SHIELD 
+   AWG 38, 
+   Silver-Coated Copper 
+ 
+JACKET 
+   Modified FEP"
+https://brand.hubersuhner.com/api/asset/eyJjbGllbnRJZCI6bnVsbCwiaWQiOjc2NTU1LCJ0aW1lc3RhbXAiOjE2OTg1OTk4MTMsInZlcnNpb24iOjE2OTg1MDkyMjh9:huber-suhnerag:badcyVPknkquFohlZpyAvoeeZ4kNEXoqKnHl3y_gQmk/download,cable,"1/2
+DATA SHEET
+Semi-rigid, 50 Ohm, 33 GHz, 125°C, ø3.58 mm, Copper/Tin plated, M17
+SR_141_TP_M17
+Properties
+• Formstable cable for
+precise, time saving
+installations
+• Excellent RF screening
+perormance
+• Highly eficient RF signal
+distribution
+Construction
+Component
+Material
+Detail
+Diameter
+Centre conductor
+Steel, Copper + Silver plated
+Wire
+0.92 mm
+Dielectric
+PTFE (Polytetrafluoroethylene)
+2.99 mm
+Outer conductor
+Copper, Tin plated
+Tube, 100%
+3.58 mm
+Electrical data
+Impedance
+50 Ω +/-1Ω
+Operating frequency
+≤ 33 GHz
+Capacitance
+98.1 pF/m
+Velocity of signal propagation
+69.5 %
+Signal delay
+4.8 ns/m
+Screening efectiveness
+120 dB at frequency 0.1 GHz ... 18GHz
+Insulation resistance
+100000000 MΩ*m
+Operating Voltage (at sea level)
+≤ 1.9 kVrms
+Test voltage (50 Hz/1 min)
+≤ 5 kVrms
+Mechanical data
+Weight
+approx. 52.1 g/m
+Static bending radius
+6.35 mm
+Environmental data
+Operation temperature
+-40 °C ... 125 °C
+Installation temperature
+-20 °C ... 60 °C
+Fire characteristics
+contains halogene
+hubersuhner.com"
+https://www.timesmicrowave.com/DataSheets/CableProducts/LMR-500.pdf,cable,
+https://timesmicrowave.com/wp-content/uploads/2022/03/lmr-400-llpx-coax-cables-datasheet.pdf,cable,"(800) TMS-COAX  •   www.timesmicrowave.com
+86
+TIMES MICROWAVE SYSTEMS
+LMR
+®-400-LLPX 
+Flexible Low Loss Plenum Coax
+LMR-400-LLPX
+Electrical Specifications
+	 Performance Property	
+Units	
+US	
+	 (metric)
+	
+Velocity of Propagation 	
+%	
+76	
+	
+Dielectric Constant	
+ NA	
+1.73
+	
+Time Delay	
+nS/ft (nS/m)	
+1.34 	
+	
+(4.40)
+	
+Impedance	
+ohms	
+50
+	
+Capacitance 	
+pF/ft (pF/m)	
+26.7	
+	
+(87.6) 
+	
+Inductance 	
+uH/ft (uH/m)	
+0.067 	
+	
+(0.22) 
+	
+Shielding Effectiveness	
+dB	
+>90 	
+	
+DC Resistance	
+	
+	
+	
+Inner Conductor	
+ohms/1000ft (/km)	
+1.8 	
+	
+(5.9)
+	
+Outer Conductor 	
+ohms/1000ft (/km)	
+1.65	
+	
+(5.4)
+	
+Voltage Withstand 	
+Volts DC	
+2500	
+	
+	
+	
+Jacket Spark	
+Volts RMS	
+8000	
+	
+Peak Power 	
+kW	
+16	
+           Environmental Specifications
+	
+Performance Property	
+0F	
+oC
+	
+Installation Temperature Range	
+-40/+257	
+-40/+125
+	
+Storage Temperature Range	
+-40/+257	
+-40/+125
+	
+Operating Temperature Range	
+-40/+257	
+-40/+125
+	
+Part Description
+	 	
+	
+	
+	
+Stock	
+	 Part Number	
+Application	
+Jacket	
+       Color     Code
+	
+ 	 LMR-400-LLPX	 Indoor/Outdoor Plenum 	
+Fluoropolymer	
+Red	
+54470
+	 	
+CMP/FT6
+Ideal for…
+	 •	Indoor/Outdoor Plenum Feeder runs
+	 •	UL/NEC/CSA rated CMP/FT6 (listed under UL file #E-170516)
+	 •	Any wireless application (e.g. LMDS, MMDS, WLL, GPS, LMR, 
+	 	 WLAN, WISP, WiMax, SCADA, Cellular, PCS, Paging) 
+	 	 requiring an easily routed, low loss RF cable 
+	 	 for in-building systems
+Construction Specifications
+	 Description	
+Material	
+In.	
+(mm)
+	
+Inner Conductor	
+Solid BCCAI	
+0.095	 (2.41)	 	
+Dielectric	
+Low density PTFE	
+0.285	 (7.24)	 	
+Outer Conductor	
+Aluminum Tape	
+0.291	 (7.39)	 	
+Overall Braid	
+Tinned Copper	
+0.320	 (8.13)	 	
+Jacket	
+Red Fluoropolymer	
+0.370	 (9.40)	
+Mechanical Specifications
+	 Performance Property	
+Units	
+US	
+(metric)
+	
+	 Bend Radius: installation	
+in. (mm)	
+1.00	
+(25.4)
+	 Bend Radius: repeated	
+in. (mm)	
+4.0	
+(101.6)
+	 Weight	
+lb/ft (kg/m)	
+0.104	
+(0.15)
+	 Tensile Strength	
+lb (kg)	
+120	
+(54.5)
+	 Flat Plate Crush	
+lb/in. (kg/mm)	
+185 	
+(3.31)"
+https://www.belfuse.com:443/resources/drawings/cinchconnectivitysolutions/trompeter/dr-ccs-trom-twc-124-2.pdf,cable,
+https://www.alphawire.com/products/cable/alpha-essentials/coaxial-cable/9217/,cable,
+https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=SPEC1200&DocType=SS&DocLang=EN,cable,"Raychem Wire and Cable 
+501 Oakside Avenue, Redwood City, CA  94063-3800 
+NOTE: 
+ANY PRINTED COPY OF THIS DOCUMENT 
+IS AN UNCONTROLLED COPY. 
+©  2011-2019 TE Connectivity Ltd. family of companies.  All Rights Reserved. 
+SPECIFICATION: 
+1200
+THIS ISSUE: 
+Issue 16 
+DATE: 
+20 Sep 2019 
+REPLACES: 
+Issue 15 
+PAGE: 
+1 of 40 
+CABLE, HIGH-FREQUENCY AND CONTROLLED  ELECTRICAL 
+1.
+SCOPE
+SCOPE
+This specification covers inspection methods, procedures and requirements for high-frequency
+and controlled electrical cables.
+TEMPERATURE RATING
+The temperature rating, when shown on the specification sheet, is based on data obtained from
+either testing of the insulation material(s) using the mechanical and electrical integrity of the
+product as defined by ASTM D 3032, Section 14, as the basis for the rating, or by industry-
+defined standards for the type of material.  The temperature rating is not based on possible
+changes to the electrical characteristics of the cable which might occur as a result of exposure
+to temperature extremes.
+2.
+APPLICABLE DOCUMENTS
+GOVERNMENT-FURNISHED DOCUMENTS
+The following documents, of the issue in effect on the date of invitation for bids or request for
+proposal, form a part of this specification to the extent specified herein.
+2.1.1 
+Department of Defense
+SPECIFICATIONS
+Federal 
+UU-T-450 
+Tissue, Facial 
+Military 
+MIL-DTL-17 
+Cables, Radio Frequency, Flexible and Semirigid, General 
+Specification For 
+MIL-DTL-915 
+Cable, Electrical, for Shipboard Use, General Specification For 
+(Copies of Department of Defense documents may be obtained from the Naval Publications 
+and Forms Center, Standardization Documents Order Desk, 700 Robbins Ave., Bldg. 4D, 
+Philadelphia, PA 19111-5094; or at http://assist.daps.dla.mil/quicksearch/.)"
+https://www.belfuse.com:443/resources/drawings/cinchconnectivitysolutions/trompeter/dr-ccs-trom-trc-75-1.pdf,cable,
+https://www.mcgillmicrowave.com/product/rg405-hand-formable-coaxial-cable/?attachment_id=20609&download_file=kkit2gkok23if,cable,"Construction Specifications  
+Description 
+Material 
+Size (mm) 
+Inner Conductor 
+Silver Plated Copper 
+1/0.54±0.01mm  
+Dielectric 
+PTFE 
+1.67±0.10mm  
+Overall Braid 
+Tinned copper 
+80*0.10mm  
+Jacket 
+FEP (Blue jacket) 
+2.60±0.10 mm  
+Contact us for more details 
+Unit 5, Block 9 Mitchelston Ind Est, Kirkcaldy, Fife, KY1 3PE, UK 
+Email: contact@mcgillmicrowave.com        
+Tel: UK +44 (0)1592 655428 
+www.mcgillmicrowave.com 
+ 
+RG405 Coaxial Cable  
+McGill Part No:  RG405-MM 
+Electrical Specifications  
+Description 
+Unit 
+Value 
+Impedance 
+ohms  
+50±2 
+Capacitance  
+pF/m 
+97±5 
+Velocity of            
+Propagation 
+% 
+70 
+Max Voltage 
+VMS 
+1500 
+Max Frequency 
+MHz 
+3000 
+Temperature Range 
+-40/+200C"
+https://catalog.belden.com/techdata/EN/9221_techdata.pdf,cable,"Product: 9221  
+Analog Video, #30 Str TC, 90% TC Braid, PVC Jacket
+Product Description
+30 AWG stranded (7x38) .012"" tinned copper conductor, foam HDPE insulation, tinned copper braid shield (90% coverage), PVC jacket.
+Technical Specifications
+Product Overview
+Suitable Applications:
+Analog video, Composite Video, Video Distribution
+Construction Details
+Conductor
+No. of Elements
+Size
+Stranding
+Nom. Diameter
+Material
+1
+30 AWG
+7x38
+0.012 in
+TC - Tinned Copper
+Insulation
+Material
+Nom. Insulation Diameter Color Code Notes
+PE - Polyethylene (Foam)
+0.058 in (1.5 mm)
+White
+HDPE
+Outer Shield
+Outer Shield Type
+Material
+Coverage
+Braid
+Tinned Copper (TC) 90%
+Outer Jacket
+Material
+Nom. Diameter
+PVC - Polyvinyl Chloride 0.097 in (2.5 mm)
+Overall Cable
+Diameter (Nominal):
+0.097 in (2.5 mm)
+Electrical Characteristics
+Attenuation
+Frequency Nom. Attenuation
+1 MHz
+0.7 dB/100ft
+3.6 MHz
+1.3 dB/100ft
+5 MHz
+1.6 dB/100ft
+7 MHz
+1.9 dB/100ft
+9 MHz
+2.1 dB/100ft
+10 MHz
+2.2 dB/100ft
+50 MHz
+5.1 dB/100ft
+70 MHz
+6.1 dB/100ft
+100 MHz
+7.3 dB/100ft
+200 MHz
+10.5 dB/100ft
+400 MHz
+15.5 dB/100ft
+700 MHz
+21.5 dB/100ft
+900 MHz
+24.8 dB/100ft
+1000 MHz
+26.6 dB/100ft"
+https://timesmicrowave.com/wp-content/uploads/2022/03/lmr-1200-coax-cables-datasheet.pdf,cable,"(800) TMS-COAX  •   www.timesmicrowave.com
+40
+TIMES MICROWAVE SYSTEMS
+LMR
+®-1200 
+Flexible Low Loss Communications Coax
+LMR-1200
+Ideal for…
+ •	Medium Antenna Feeder runs
+ •	Jumper Assemblies for 1-5/8” & 2-1/4” Feeders
+ •	Building-Top Sites
+	 • Any application (e.g. WLL, GPS, LMR, WLAN, WISP, WiMax, 
+	 	 SCADA, Mobile Antennas) requiring an easily routed, 
+	 	 low loss RF cable
+           Environmental Specifications
+	 Performance Property	
+0F	
+oC
+	
+Installation Temperature Range	
+-40/+185	
+-40/+85
+	
+Storage Temperature Range	
+-94/+185	
+-70/+85
+	
+Operating Temperature Range	
+-40/+185	
+-40/+85
+Electrical Specifications
+	 Performance Property	
+Units	
+US       	(metric)
+	
+Velocity of Propagation 	
+%	
+88	
+	
+Dielectric Constant	
+ NA	
+1.29
+	
+Time Delay	
+nS/ft (nS/m)	
+1.15	
+	
+(3.79)
+	
+Impedance	
+ohms	
+50
+	
+Capacitance 	
+pF/ft (pF/m)	
+23.1	
+	
+(75.8) 
+	
+Inductance 	
+uH/ft (uH/m)	
+0.058 	
+	
+(0.19) 
+	
+Shielding Effectiveness	
+dB	
+>90 	
+	
+DC Resistance	
+	
+	
+	
+Inner Conductor	
+ohms/1000ft (/km)	
+0.32 	
+	
+(1.0)
+	
+Outer Conductor 	
+ohms/1000ft (/km)	
+0.37	
+	
+(1.2)
+	
+Voltage Withstand 	
+Volts DC	
+6000	
+	
+	
+	
+Jacket Spark	
+Volts RMS	
+8000	
+	
+Peak Power 	
+kW	
+90	
+Mechanical Specifications
+	 Performance Property	
+Units	
+US	
+(metric)
+	
+	 Bend Radius: installation	
+in. (mm)	
+6.50	
+(165.1)
+	 Bend Radius: repeated	
+in. (mm)	
+12.0	
+(304.8)
+	 Bending Moment	
+ft-lb (N-m)	
+15	
+(20.34)
+	 Weight	
+lb/ft (kg/m)	
+0.448	
+(0.67)
+	 Tensile Strength	
+lb (kg)	
+1300	
+(590.2)
+	 Flat Plate Crush	
+lb/in. (kg/mm)	
+250 	
+(4.47)
+	
+Part Description
+	 	
+	
+	
+	
+Stock	
+	 Part Number	
+Application	
+Jacket	
+ Color     Code
+   LMR-1200-DB 	
+Outdoor/Watertight	
+PE	
+Black	
+54095
+	 LMR-1200-FR	
+Indoor/Outdoor Riser CMR	 FRPE	
+Black	
+54034
+Construction Specifications
+	 Description	
+Material	
+In.	
+(mm)
+	
+	 Inner Conductor	
+BC Tube (.309"" ID)	
+0.349	 (8.86)
+	 Dielectric	
+Foam PE	
+0.920	 (23.37)	
+	 Outer Conductor	
+Aluminum Tape	
+0.926	 (23.52)	
+	 Overall Braid	
+Tinned Copper	
+0.972	 (24.69)	
+	 Jacket	
+(see table)	
+1.200	 (30.48)"
+https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1062/C1178.21.01.pdf,cable,"C1178.21.01
+Product SKU:
+C1178, Coaxial Cable, RG58/U Type, 20 AWG (19X.0071) Tinned Copper, 95% Tinned Copper 
+Product Description:
+Braid, PVC Jacket - Black - 1000 Ft. Spool
+Product Category:
+Electronics - Coaxial Cable - RG 58/U Type - Black
+Product Construction:
+Conductor:
+Tinned copper per ASTM B-33 
+ 
+Insulation/Core:
+Solid polyethylene 
+ 
+Shield:
+Tinned copper braid 
+ 
+Jacket:
+Premium PVC compound 
+ 
+Product Specification:
+No. of Conductors:
+1 
+ 
+Conductor Size (AWG):
+20 
+ 
+No. of Pairs:
+1 
+ 
+Jacket Color:
+Black 
+ 
+Insulation Material (in):
+Solid Polyethylene 0.116 
+ 
+Insulation Material (mm):
+Solid Polyethylene 2.95 
+ 
+Shield Coverage Nominal Shield 
+95% Tinned Copper Braid 4.3 Ohm/M 
+ 
+DCR:
+Nominal Outside Diameter (in):
+0.195 
+ 
+Nominal Outside Diameter 
+4.95 
+ 
+(mm):"
+https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/13/50CX-41.pdf,cable,"TITLE 
+PART No. 
+REV 
+PAGE 
+ 
+ 
+ 
+ 
+1 of 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rev 
+DCR 
+Description 
+App’d 
+Date 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Address: 26 Milford Road, South Grafton, MA 01560   Phone: (508)-839-5987   Fax: (508)-839-4128 
+This document is the
+property of TEMP-FLEX.
+It may not be disclosed,
+reproduced, or otherwise
+used without permission.
+Conductor
+Insulation
+Braid Shield
+Jacket
+1.8mm Nominal
+(0.071"")
+NOTES
+Conductor: 30 AWG, 7/38, Silver Plated Copper
+Insulation: FEP, 0.0345"" (0.88mm) Diameter
+Braid Shield: 42 AWG, Silver Plated Copper, >95% Coverage
+Jacket: FEP
+Color: Black
+Imepdance: 50+/-2 Ohms
+Capacitance: 30 pF/ft Nominal
+Velocity of Propagation: 70%
+30 AWG, 50 Ohm Coax
+50CX-41
+X2
+X1
+Preliminary Release.
+3073
+KP
+9/26/12
+X2
+3135
+KP
+11/12/12
+Adjust Core OD."
+https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/3569/A29SS.pdf,cable,"Performance Cable Specification  
+A29SS-Rev2
+www.ConductRF.com 
+ 
+Tel: +978 374 6840 
+ 
+ 
+ 
+sales@ConductRF.com
+Construction
+Item
+Material
+Diameter
+Characteristic
+1. Center Conductor
+Silver Plated Copper Clad Steel Wire
+0.92mm (0.036”)
+Solid
+2. Dielectric
+PTFE
+2.97mm (0.117”)
+Solid
+3. Outer Conductor(1)
+Silver Plated Copper Flat Tape
+3.20mm (0.128”)
+Tape
+4. Outer Conductor(2)
+Silver Plated Copper Braid
+3.58mm (0.141”)
+Braid
+5. Jacket
+FEP
+4.14mm (0.163”)
+Blue
+Electrical & Mechanical Data
+Characteristic impedance 
+50 Ohm
+Operating frequency 
+27GHz (Max.)
+Velocity of propagation 
+70%
+Signal delay 
+4.72ns/m
+Capacitance
+95pF/m
+Operating temperature
+-55ºC to +165ºC
+Shield effectiveness to 18GHz
+> 90dB 
+Working Voltage 
+1900Vrms (Max) 
+Weight
+43.6kg/km
+Min. bending radius
+10mm (Single) 
+40mm (Multiple)
+Performance Data - (GHz/100ft - K1=11.325/K2=0.875)
+Frequency 
+Max Attenuation
+Max. Power
+(GHz)
+dB/100m
+dB/100ft
+(Watt)
+1
+40.02
+12.20
+373.00
+2
+72.82
+22.20
+255.00
+6
+97.09
+29.60
+151.00
+12
+145.96
+44.50
+108.00
+16
+185.98
+56.70
+94.00
+18
+208.94
+63.70
+88.00
+20
+223.04
+68.00
+84.00
+27
+264.04
+80.50
+73.00
+Flexible, Spiral Strip/Braided, Coaxial Cable"
+https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6155/LMR-400-LLPX.pdf,cable,"(800) TMS-COAX  •   www.timesmicrowave.com
+86
+TIMES MICROWAVE SYSTEMS
+LMR
+®-400-LLPX 
+Flexible Low Loss Plenum Coax
+LMR-400-LLPX
+Electrical Specifications
+	 Performance Property	
+Units	
+US	
+	 (metric)
+	
+Velocity of Propagation 	
+%	
+76	
+	
+Dielectric Constant	
+ NA	
+1.73
+	
+Time Delay	
+nS/ft (nS/m)	
+1.34 	
+	
+(4.40)
+	
+Impedance	
+ohms	
+50
+	
+Capacitance 	
+pF/ft (pF/m)	
+26.7	
+	
+(87.6) 
+	
+Inductance 	
+uH/ft (uH/m)	
+0.067 	
+	
+(0.22) 
+	
+Shielding Effectiveness	
+dB	
+>90 	
+	
+DC Resistance	
+	
+	
+	
+Inner Conductor	
+ohms/1000ft (/km)	
+1.8 	
+	
+(5.9)
+	
+Outer Conductor 	
+ohms/1000ft (/km)	
+1.65	
+	
+(5.4)
+	
+Voltage Withstand 	
+Volts DC	
+2500	
+	
+	
+	
+Jacket Spark	
+Volts RMS	
+8000	
+	
+Peak Power 	
+kW	
+16	
+           Environmental Specifications
+	
+Performance Property	
+0F	
+oC
+	
+Installation Temperature Range	
+-40/+257	
+-40/+125
+	
+Storage Temperature Range	
+-40/+257	
+-40/+125
+	
+Operating Temperature Range	
+-40/+257	
+-40/+125
+	
+Part Description
+	 	
+	
+	
+	
+Stock	
+	 Part Number	
+Application	
+Jacket	
+       Color     Code
+	
+ 	 LMR-400-LLPX	 Indoor/Outdoor Plenum 	
+Fluoropolymer	
+Red	
+54470
+	 	
+CMP/FT6
+Ideal for…
+	 •	Indoor/Outdoor Plenum Feeder runs
+	 •	UL/NEC/CSA rated CMP/FT6 (listed under UL file #E-170516)
+	 •	Any wireless application (e.g. LMDS, MMDS, WLL, GPS, LMR, 
+	 	 WLAN, WISP, WiMax, SCADA, Cellular, PCS, Paging) 
+	 	 requiring an easily routed, low loss RF cable 
+	 	 for in-building systems
+Construction Specifications
+	 Description	
+Material	
+In.	
+(mm)
+	
+Inner Conductor	
+Solid BCCAI	
+0.095	 (2.41)	 	
+Dielectric	
+Low density PTFE	
+0.285	 (7.24)	 	
+Outer Conductor	
+Aluminum Tape	
+0.291	 (7.39)	 	
+Overall Braid	
+Tinned Copper	
+0.320	 (8.13)	 	
+Jacket	
+Red Fluoropolymer	
+0.370	 (9.40)	
+Mechanical Specifications
+	 Performance Property	
+Units	
+US	
+(metric)
+	
+	 Bend Radius: installation	
+in. (mm)	
+1.85	
+(47.0)
+	 Bend Radius: repeated	
+in. (mm)	
+4.0	
+(101.6)
+	 Bending Moment	
+ft-lb (N-m)	
+0.5	
+(0.68)
+	 Weight	
+lb/ft (kg/m)	
+.104	
+(0.15)
+	 Tensile Strength	
+lb (kg)	
+120	
+(54.5)
+	 Flat Plate Crush	
+lb/in. (kg/mm)	
+185 	
+(3.31)"
+https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/533/047SC-2901.pdf,cable,"TITLE 
+PART No. 
+REV 
+PAGE 
+ 
+ 
+ 
+ 
+1 of 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rev 
+DCR 
+Description 
+App’d 
+Date 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Address: 26 Milford Road, South Grafton, MA 01560   Phone: (508)-839-5987   Fax: (508)-839-4128 
+This document is the
+property of TEMP-FLEX.
+It may not be disclosed,
+reproduced, or otherwise
+used without permission.
+CONSTRUCTION
+Signal Conductor: 0.0113""+/-0.0001"" (0.29+/-0.0025mm), Silver Plated Copper per ASTM B-298
+Insulation: FEP per applicable paragraph MIL-DTL-17, 0.0363""+/-0.001"" (0.92+/-0.025mm) OD
+Inner Shield: Helically Overlapped Flat Silver Plated Copper per ASTM B-298
+Braid Shield: 46 AWG Silver Plated Copper per ASTM B-298, >89% Coverage
+Overall Shield Diameter: 0.046""+/-0.002 (1.12+/-0.05mm)
+Jacket: FEP in accordance with MIL-DTL-17, Type IX
+Wall Thickness: 0.005"" (0.127mm)
+Color: Blue
+ELECTRICAL
+Impedance: 50+/-1 ohms
+Velocity Of Propagation: 70%
+Capacitance: 29 pF/ft  (95 pF/m)
+GENERAL
+Temperature Rating: -65C to 165C
+Static Bend Radius: 0.2"" (5.0mm)
+Dynamic Bend Radius: 0.4"" (10.0mm)
+Weight: 3.5 lbs/1000ft
+Freq 
+(GHz) 
+Attenuation 
+(dB/100 ft) 
+Avg Power 
+(W) 
+0.5 
+25 
+61 
+1 
+35 
+43 
+2 
+52 
+30 
+4 
+80 
+20 
+8 
+120 
+13 
+12 
+140 
+10 
+18 
+180 
+8 
+ 
+1.42+/-0.076mm
+(0.056+/-0.003"")
+Inner Shield
+Braid Shield
+Jacket
+Insulation
+Signal Conductor
+Low Loss Microwave Coax,
+29 AWG
+047SC-2901
+6
+5
+5
+6
+6
+3330
+3431
+2904
+2938
+Braid Shield P/N Change.
+Remove Patent # from General Notes.
+Braid Shield to 46/6SH.
+Add Patent # to General Notes.
+KP
+J Sanyal
+KP
+KP
+4/2/13
+7/8/13
+3/22/12
+4/26/12"
+https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2024J2424&DocType=Customer+Drawing&DocLang=English,cable,"SPECIFICATION CONTROL DRAWING 
+CHEMINAX 
+Date: 
+Revision: 
+THIS SPECIFICATION SHEET FORMS A PART OF THE LATEST ISSUE OF RAYCHEM SPECIFICATION 1200. 
+CONSTRUCTION DETAILS 
+ELECTRICAL CHARACTERISTICS 
+DIMENSIONS ARE NOMINAL VALUES IN INCHES, UNLESS 
+OTHERWISE DESIGNATED. 
+ 
+ 
+ 
+ 
+ 
+ 
+ADDITIONAL REQUIREMENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designate outer jacket color with a dash number in accordance 
+with MIL-STD-681.  Unless otherwise specified, outer jacket color 
+will be translucent white designated by a ""-9X"" appended to the 
+part number, (e.g. 2024J2424-9X). 
+Other codes and suffixes may be added to the part number, as 
+necessary, to capture any additional requirements imposed by 
+the purchase order. 
+ENGINEERING REFERENCE 
+Users should evaluate the suitability of this product for their application.  Specifications are subject to change without notice.  TE Connectivity also reserves the 
+right to make changes in materials or processing, which do not affect compliance with any specification, without notification to Buyer. 
+Page 1 of 1 
+Cheminax, Raychem, TE Connectivity, TE connectivity (logo), and TE (logo) are trademarks. 
+Raychem Wire & Cable 
+501 Oakside Avenue 
+Redwood City, California 94063-3800 
+Phone:  1-800-522-6752    
+THIS SPECIFICATION SHEET TAKES PRECEDENCE OVER DOCUMENTS REFERENCED HEREIN.  
+REFERENCED DOCUMENTS SHALL BE OF THE ISSUE IN EFFECT ON DATE OF INVITATION FOR BID. 
+© 2006-2020 TE Connectivity Ltd. family of companies.  All rights reserved. 
+2024J2424 
+ 
+120 OHM, AWG 24, 19 STRANDS OF AWG 36, 
+TWINAXIAL CABLE 
+ 
+07-7-20 
+F
+ 
+CHARACTERISTIC IMPEDANCE 
+120 ± 12 ohms, Method D at 1 MHz 
+with shield grounded 
+MUTUAL CAPACITANCE 
+12.7 pF/ft. (nominal) 
+18.2 pF/ft. (maximum) 
+VELOCITY OF PROPAGATION 
+77% (nominal) 
+ATTENUATION      
+ 1.0 dB/100 ft (maximum) at 1 MHz 
+2.0 dB/100 ft (maximum) at 6 MHz 
+2.7 dB/100 ft (maximum) at 10 MHz 
+7.4 dB/100 ft (maximum) at 100 MHz 
+ELECTRICAL 
+CONDUCTOR RESISTANCE 
+27.8 ohms/1000 ft. (nominal) 
+(prior to cabling) 
+INSULATION RESISTANCE 
+10,000 megohms (minimum)
+for 1000 ft. 
+JACKET FLAWS 
+SPARK TEST 
+1.0 kV (rms) 
+IMPULSE TEST 
+6.0 kV (peak) 
+VOLTAGE WITHSTAND (DIELECTRIC) 
+1500 volts (rms) (minimum) 
+ENVIRONMENTAL 
+FLAMMABILITY 
+Method B 
+HEAT SHOCK 
+225°C 
+LOW TEMPERATURE-COLD BEND 
+-55°C/4.00 inch mandrel
+VOLTAGE WITHSTAND 
+1000 volts (rms), 1 minute
+(Post Environmental) 
+PHYSICAL 
+INSULATION (DIELECTRIC) 
+(prior to cabling) 
+ELONGATION 
+50% (minimum) 
+TENSILE STRENGTH 
+600 lbf/in2 (minimum) 
+JACKET 
+ELONGATION 
+200% (minimum) 
+TENSILE STRENGTH 
+2000 lbf/in2 (minimum) 
+JACKET THICKNESS 
+.007 inch (nominal) 
+SHIELD COVERAGE 
+92% (minimum) 
+WEIGHT 
+14.5 lbs/1000 ft. (nominal) 
+ 
+TEMPERATURE RATING 
+150°C (maximum) 
+ 
+.0235 
+.061 
+± .003 
+.143 
+(nominal) 
+.153 
+(maximum) 
+.129 
+CONDUCTORS 
+   AWG 24, 
+   19 Strands of AWG 36, 
+   Silver-Coated High- 
+   Strength Copper Alloy 
+DIELECTRICS 
+   Foamed FEP 
+   Colors - Light Blue/White 
+FILLERS 
+   Radiation-Crosslinked, 
+   Modified ETFE 
+JACKET 
+   Modified FEP 
+SHIELD 
+   Flat, 
+   .0015 Strand Thickness, 
+   Tin-Coated Copper 
+.041"
+https://catalog.belden.com/techdata/EN/1671A_techdata.pdf,cable,"Product: 1671A  
+Conformable Coax, 50 Ohm RG-405, 24 AWG Solid SCCS, Copper-Tin
+Composite Shield, Unjacketed
+Product Description
+Conformable Coax, 50 Ohm, RG-405, 24 AWG Solid Silvered Copper Covered Steel Conductor, PTFE Insulation, Copper Tape + 100% Tin-Filled Composite
+Braid Shield, Unjacketed
+Technical Specifications
+Product Overview
+Suitable Applications:
+Microwave and other high frequency applications, Interconnect RF equipment, Radar equipment, Military communications
+Construction Details
+RG Type:
+405
+Conductor
+Size
+Stranding
+Nom. Diameter
+Material
+24 AWG
+Solid
+0.020 in
+SCCS - Silvered Copper Covered Steel
+Insulation
+Material
+Nom. Insulation Diameter Color Code
+PTFE - Polytetrafluoroethylene
+0.062 in (1.6 mm)
+White
+Outer Shield
+Layer
+Outer Shield Type
+Material
+Coverage
+Notes
+1
+Tape
+Bare Copper (BC)
+100%
+2
+Braid
+Tinned Copper (TC + Tin Filled)
+100%
+Diameter: 0.085 inch
+Outer Jacket
+Material
+No Jacket
+Overall Cable Diameter (Nominal): 0.085 in (2.2 mm)
+Electrical Characteristics
+VSWR
+Frequency
+Max. VSWR
+500 MHz
+1.1:1
+1000 MHz
+1.11:1
+3000 MHz
+1.13:1
+7000 MHz
+1.17:1
+15000 MHz
+1.25:1
+20000 MHz
+1.3:1
+Table Notes:
+VSWR limit is a continuous sloping line from 500 MHz to 20 GHz
+Attenuation
+Frequency
+Nom. Attenuation
+500 MHz
+15.0 dB/100ft
+1000 MHz
+22.5 dB/100ft"
+https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6155/TCOM-600.pdf,cable,"(800) TMS-COAX  •   www.timesmicrowave.com
+137
+TIMES MICROWAVE SYSTEMS
+TCOM-600
+Attenuation
+(db per 100 feet)
+10.0
+1.0
+0.1
+10	
+100 	
+1,000	
+10,000
+ Calculate Attenuation = 
+(0.080075)  •  FMHz  +  (0.000256) •  FMHz (interactive calculator available at http://www.timesmicrowave.com/cable_calculators)
+Attenuation: 
+VSWR=1.0 ; Ambient = +25°C (77°F) 
+Power: 
+VSWR=1.0; Ambient = +40°C; Inner Conductor = 100°C (212°F); Sea Level; dry air; atmospheric pressure; no solar loading
+Frequency (MHz)
+Attenuation vs. Frequency (typical)
+	 Frequency (MHz)	
+30	
+50	
+150	
+220	
+450	
+900	
+1500	
+1800	
+2000	
+2500	
+5800	 10,000	
+	 Attenuation dB/100 ft	
+0.4	
+0.6	
+1.0	
+1.2	
+1.8	
+2.6	
+3.5	
+3.9	
+4.1	
+4.6	
+7.6	
+10.6	
+	 Attenuation dB/100 m	
+1.5	
+1.9	
+3.3	
+4.1	
+6.0	
+8.6	
+11.4	
+12.7	
+13.4	
+15.2	
+24.9	
+34.7	
+	 Avg. Power kW	
+5.20	
+4.01	
+2.28	
+1.86	
+1.28	
+0.88	
+0.66	
+0.60	
+0.56	
+0.50	
+0.30	
+0.22"
+https://www.mcgillmicrowave.com/product/lmr-195-fr/?attachment_id=1378&download_file=i6c8nj2p1oul9,cable,"(800) TMS-COAX  •   www.timesmicrowave.com
+12
+TIMES MICROWAVE SYSTEMS
+LMR
+®-195 
+Flexible Low Loss Communications Coax
+LMR-195
+Ideal for…
+	 •	Jumper Assemblies in Wireless Communications Systems
+	 •	Short Antenna Feeder runs 
+	 •	Any application (e.g. WLL, GPS, LMR, WLAN, WISP, WiMax, 
+	 	 SCADA, Mobile Antennas) requiring an easily routed, 
+	 	 low loss RF cable
+	 •	Drop-in replacement for RG-58 and RG-142
+Mechanical Specifications
+	 Performance Property	
+Units	
+US	
+(metric)
+	
+	 Bend Radius: installation	
+in. (mm)	
+0.5	
+(12.7)
+	 Bend Radius: repeated	
+in. (mm)	
+2.0	
+(50.8)
+	 Bending Moment	
+ft-lb (N-m)	
+0.2	
+(0.27)
+	 Weight	
+lb/ft (kg/m)	
+0.021	
+(0.03)
+	 Tensile Strength	
+lb (kg)	
+40	
+(18.2)
+	 Flat Plate Crush	
+lb/in. (kg/mm)	
+15 	
+(0.27)
+Electrical Specifications
+	 Performance Property	
+Units	
+US	
+	 (metric)
+	
+Velocity of Propagation 	
+%	
+80	
+	
+Dielectric Constant	
+ NA	
+1.56
+	
+Time Delay	
+nS/ft (nS/m)	
+1.27	
+	
+(4.17)
+	
+Impedance	
+ohms	
+50
+	
+Capacitance 	
+pF/ft (pF/m)	
+25.4 	
+	
+(83.3) 
+	
+Inductance 	
+uH/ft (uH/m)	
+0.064 	
+	
+(0.21) 
+	
+Shielding Effectiveness	
+dB	
+>90 	
+	
+DC Resistance	
+	
+	
+	
+Inner Conductor	
+ohms/1000ft (/km)	
+7.6 	
+	
+(24.9)
+	
+Outer Conductor 	
+ohms/1000ft (/km)	
+4.9	
+	
+(16.1)
+	
+Voltage Withstand 	
+Volts DC	
+1000	
+	
+	
+	
+Jacket Spark	
+Volts RMS	
+3000	
+	
+Peak Power 	
+kW	
+2.5	
+           Environmental Specifications
+	
+Performance Property	
+0F	
+oC
+	
+Installation Temperature Range	
+-40/+185	
+-40/+85
+	
+Storage Temperature Range	
+-94/+185	
+-70/+85
+	
+Operating Temperature Range	
+-40/+185	
+-40/+85
+	 	
+Part Description	
+	
+	
+Stock
+	 Part Number	
+Application	
+Jacket	  Color	
+Code
+ LMR-195	
+Outdoor	
+PE	
+    Black	 54110
+ LMR-195-DB	
+Outdoor/Watertight	
+PE	
+    Black	 54113
+ LMR-195-FR	
+Indoor/Outdoor Riser CMR	    FRPE	
+    Black	 54111
+ LMR-195-FR-W Indoor/Outdoor Riser CMR	    FRPE	
+    White	 54158
+ LMR-195-FR-PVC	
+  Indoor/Outdoor Riser CMR	
+  FRPVC	
+ Black	54105
+ LMR-195-MA	
+Mobile Antennas	
+   PVC	     Black	 54210
+ LMR-195-PVC	
+General Purpose	
+   PVC 	
+     Black	 54215
+ LMR-195-PVC-W	
+General Purpose	
+   PVC	     White	 54199
+Construction Specifications
+	 Description	
+Material	
+In.	
+      (mm)
+	
+	 Inner Conductor	
+Solid BC	
+0.037	
+(0.94)	
+	 Dielectric	
+Foam PE	
+0.110	
+(2.79)	
+	 Outer Conductor	
+Aluminum Tape	
+0.116	
+(2.95)	
+	 Overall Braid	
+Tinned Copper	
+0.139	
+(3.53)	
+ 	 Jacket	
+(see table)	
+0.195	
+(4.95)
+Attenuation vs. Frequency (typical)
+Attenuation
+(db per 100 feet)
+100.0
+10.0
+    
+1.0
+10	
+              100 	
+                            1,000	
+                  10,000
+Frequency (MHz)
+	 Frequency (MHz)	
+30	
+50	
+150	
+220	
+450	
+900	
+1500	
+1800	 2000	 2500	 5800	
+8000    	
+Attenuation dB/100 ft	
+2.0	
+2.5	
+4.4	
+5.4	
+7.8	
+11.1	
+14.5	
+16.0	
+16.9	
+19.0	
+29.9	
+35.7	
+	
+Attenuation dB/100 m	
+6.5	
+8.4	
+14.6	
+17.7	
+25.5	
+36.5	
+47.7	
+52.5	
+55.4	
+62.4	
+98.1	
+117.1	
+Avg. Power kW	
+0.89	
+0.68	
+0.39	
+0.32	
+0.22	
+0.16	
+0.12	
+0.11	
+0.10	
+0.09	
+0.06	
+0.04"
+https://www.mcgillmicrowave.com/product/rg58-coaxial-cable-premium/?attachment_id=18480&download_file=gse435q9uzecv,cable,"Construction Specifications  
+Description 
+Material 
+Size (mm) 
+Inner Conductor 
+Bare Copper 
+0.90mm  
+Dielectric 
+Solid PE 
+2.95mm  
+Outer Conductor 
+Aluminium Tape 
+3.10mm 
+Outer Braid 
+Tinned Copper 
+96*0.12mm  
+Jacket 
+PVC 
+5.00mm  
+Contact us for more details 
+Unit 5, Block 9 Mitchelston Ind Est, Kirkcaldy, Fife, KY1 3PE, UK 
+Email: contact@mcgillmicrowave.com        
+Tel: UK +44 (0)1592 655428 
+www.mcgillmicrowave.com 
+ 
+RG58 Premium Shielded Coaxial Cable  
+McGill Part No:  RG58 
+Electrical Specifications  
+Description 
+Unit 
+Value 
+Impedance 
+ohms  
+50 
+Capacitance  
+pF/m 
+100±5  
+Velocity of Propagation 
+% 
+66 
+Max Voltage 
+VMS 
+1,500 
+Max Frequency 
+MHz 
+3,000 
+Temperature Range 
+-20/+80C"
+https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=0024G0024&DocType=Customer+Drawing&DocLang=English,cable,"DIMENSIONS  ARE  NOMINAL  VALUES  IN  INCHES  UNLESS OTHERWISE  
+DESIGNATED. 
+Outer jacket color will be translucent white (designated by a 
+“-9X"" appended to the part number, e.g. 0024G0024-9X) unless 
+otherwise specified.
+Designate outer jacket color with a dash number in accordance 
+with MIL-STD-681. Other codes and suffixes may be added to 
+the part number, as necessary, to capture any additional 
+requirements imposed by the purchase order.
+Users should evaluate the suitability of this product for their application.  Specifications are subject to change without notice. Tyco Electronics 
+Corporation also reserves the right to make changes in materials or processing, which do not affect compliance with any specification, 
+without notification to Buyer.
+Page 1 of 1
+Rayfoam, Cheminax, Raychem, TE Connectivity, TE connectivity (logo) and TE (logo) are trademarks. 
+                                                                                                                                                                    © 2013 Tyco Electronics Corporation, All rights reserved.
+501 Oakside Avenue 
+Redwood City, California  94063-3800
+1-800-227-8816     Fax: 1-650-361-6297
+Raychem Wire & Cable
+THIS SPECIFICATION SHEET TAKES PRECEDENCE OVER DOCUMENTS 
+REFERENCED HEREIN. REFERENCED DOCUMENTS SHALL BE OF THE 
+ISSUE IN EFFECT ON DATE OF INVITATION FOR BID.
+SPECIFICATION CONTROL DRAWING
+0024G0024
+CHEMINAX
+100 OHM, AWG 24, 19 STRANDS OF AWG 36, 
+OPTIMIZED SHIELD, TWINAXIAL CABLE
+Date
+1-16-13
+Revision
+E
+THIS SPECIFICATION SHEET FORMS A PART OF THE LATEST ISSUE OF RAYCHEM SPECIFICATION 1200. 
+CONSTRUCTION DETAILS
+ELECTRICAL CHARACTERISTICS
+.149
+(nominal)
+.153
+(maximum)
+CONDUCTORS
+  AWG 24, 19 Strands of
+  AWG 36, Silver-Coated
+  High-Strength Copper
+  Alloy 
+DIELECTRICS
+	 Rayfoam H
+	 Colors - Light Blue/White
+FILLERS 
+	 Radiation-Crosslinked,
+  Modified ETFE
+.0250
+.054
+± .003
+.036
+.125
+SHIELD
+	 AWG 38, 
+	 Tin-Coated Copper
+  Optimized   
+JACKET
+  Modified FEP
+CHARACTERISTIC IMPEDANCE
+100 ± 7 ohms, Method C at 1 MHz
+MUTUAL CAPACITANCE 
+13.5 pF/ft. (nominal) 
+VELOCITY OF PROPAGATION
+76% (nominal)
+CAPACITANCE UNBALANCE
+3% (nominal)
+SURFACE TRANSFER IMPEDANCE
+100 milliohms/meter (maximum)
+(Per MIL-DTL-85485 at 30 MHz)
+ADDITIONAL REQUIREMENTS
+ELECTRICAL
+CONDUCTOR RESISTANCE
+(prior to cabling)
+26.5 ohms/1000 ft. (nominal)
+INSULATION RESISTANCE
+10,000 megohms (minimum) 
+for 1000 ft.
+JACKET FLAWS
+   SPARK TEST
+   IMPULSE TEST
+1.0 kV (rms)
+6.0 kV (peak)
+VOLTAGE WITHSTAND (DIELECTRIC)
+1000 volts (rms) (minimum)
+ENVIRONMENTAL
+FLAMMABILITY
+Method B
+HEAT SHOCK
+225°C
+LOW TEMPERATURE-COLD BEND
+-55°C/4.00 inch mandrel
+VOLTAGE WITHSTAND 
+   (Post Environmental)
+1000 volts (rms), 1 minute
+PHYSICAL
+INSULATION (DIELECTRIC)
+(prior to cabling)
+   ELONGATION
+   TENSILE STRENGTH
+50% (minimum)
+600 lbf/in2 (minimum)
+JACKET
+   ELONGATION
+   TENSILE STRENGTH
+200% (minimum)
+2000 lbf/in2 (minimum)
+JACKET THICKNESS
+.012 inch (nominal)
+WEIGHT
+18.8 lbs/1000 ft. (nominal)"
+https://brand.hubersuhner.com/api/asset/eyJjbGllbnRJZCI6bnVsbCwiaWQiOjExNjQ2OSwidGltZXN0YW1wIjoxNjk4NTk5ODA4LCJ2ZXJzaW9uIjoxNjk4NTA5NjU4fQ:huber-suhnerag:zALYZ2Nbeq5Lrioa2m7UOjyQksKmtn4W208nIRxPDws/download,cable,"1/2
+DATA SHEET
+RG196, 50 Ohm, 1 GHz, 205°C, ø1.83 mm, PFA jacket
+RG_196_A/U
+Properties
+• Mil standard RG cable
+• Excellent RF perormance
+for precision applications
+• Suitable for use in
+application up to 1 GHz
+• Extended temperature
+range
+Construction
+Component
+Material
+Detail
+Diameter
+Centre conductor
+Steel, Copper + Silver plated
+Strand-07
+0.31 mm
+Dielectric
+PTFE (Polytetrafluoroethylene)
+0.83 mm
+Outer conductor
+Copper, Silver plated
+Braid, 96%
+1.33 mm
+Jacket
+PFA (Perluoroalkoxy)
+RAL 9010 - wh
+1.83 mm +/- 0.1 mm
+Electrical data
+Impedance
+50 Ω +/-2Ω
+Operating frequency
+≤ 1 GHz
+Capacitance
+97 pF/m
+Velocity of signal propagation
+69 %
+Signal delay
+4.84 ns/m
+Screening efectiveness
+42 dB at frequency 0.001 GHz ... 1GHz
+Insulation resistance
+100000000 MΩ*m
+Operating Voltage (at sea level)
+≤ 0.5 kVrms
+Test voltage (50 Hz/1 min)
+≤ 1 kVrms
+Mechanical data
+Weight
+approx. 9.2 g/m
+Static bending radius
+≥ 10 mm
+Repeated bending radius
+18 mm
+Dynamic bending radius
+< 27 mm
+Environmental data
+Operation temperature
+-80 °C ... 205 °C
+Installation temperature
+-20 °C ... 60°C
+Flame propagation standard
+IEC 60332-3
+hubersuhner.com"
+https://www.mcgillmicrowave.com/product/lmr-100a-uf/?attachment_id=20308&download_file=5zez7pwr5f4jr,cable,"7/8/2013
+ 
+LMR─100A-UF                
+Miniature Communications Coax      
+Unless otherwise spec-
+ified, dimensions are in 
+inches.  Tolerances are 
+applicable when spec- 
+ified. 
+ 
+These drawings and 
+specifications contain 
+proprietary information 
+which is the property of 
+Times Microwave 
+Systems. 
+ 
+54274 
+Size
+A 
+CAGE CODE 
+68999 
+  Drawing No.: 
+ 
+   AA-9657 
+ 
+Scale:  NA 
+ 
+Rev.  (-C) 
+ 
+   Sheet:  1  of   1 
+ 
+Approvals 
+ 
+ 
+Drawn 
+ 
+ 
+. 
+ 
+ 
+ 
+ 
+Ep 
+ 
+   
+ 
+ 
+                        
+ 
+ 
+ 
+ 
+ 
+                          
+                    TIMES MICROWAVE SYSTEMS 
+ 
+ 
+ 
+Wallingford, CT 06492 
+ 
+ 
+       (203) 949-8400; (203) 949-8423.Fax 
+                                     www.timesmicrowave.com 
+ --A 
+           Released 
+     7/15/08 
+THE REVISION STATUS OF ALL SHEETS OF THIS DRAWING IS THE SAME AS SHEET 1 
+LTR 
+-- 
+DESCRIPTION 
+       Center Cond was SPCCS        
+DATE 
+  6/3/2013 
+BY 
+JCL 
+Ep 
+ --B 
+   CC was BCCST, Jacket was PVC  
+ 7/8/2013 
+Ep
+ --C 
+  .0185  CC was .0213 
+ 8/13/2013 
+Ep
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I. CONSTRUCTION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+inches/mm 
+ 
+Center conductor:  7 Strand, Bare Copper 
+ 
+ 
+ 
+ 
+ 
+.0185/0.47 
+ 
+Dielectric:  natural Polyethylene 
+ 
+ 
+ 
+ 
+ 
+ 
+.060/1.524 
+ 
+ Shield: Aluminum-Polyester Foil, Aluminum Facing Dilectric.100% coverage  
+.065/1.65 
+ 
+        : 38 GA Double Tinned Copper Braid, 90% minimum coverage 
+ 
+ 
+.083/2.108 
+ 
+Jacket: Black Thermoplastic Rubber  
+ 
+ 
+ 
+         .105 +/-.005” / 2.67+/-0.127 
+ 
+ 
+ 
+II. ENVIRONMENTAL and MECHANICAL PROPERTIES 
+    weight: 
+15 pounds per 1000 feet  
+    operating temperature: 
+-40C to +85C 
+    minimum bend radius: 
+1/4 inch (installation) 
+ 
+ 
+ 
+   
+ 
+ 
+III.ELECTRICAL PROPERTIES 
+    impedance: 50 ohms 
+    capacitance: 32.8 pF per foot 
+    velocity: 
+66 % 
+        attenuation @  
+30 MHz: 
+  4.9 dB/100 feet            
+ 
+ 
+ 
+50 MHz: 
+  5.9 dB/100 feet       
+ 
+                        150 MHz: 
+10.2 dB/100 feet 
+ 
+ 
+           220 MHz: 
+12.5 dB/100 feet          
+                                     450 MHz: 
+18.2 dB/100 feet            
+                                     900 MHz: 
+26.2 dB/100 feet                            
+ 
+ 
+         1500 MHz: 
+34.5 dB/100 feet           
+ 
+ 
+         2000 MHz: 
+40.3 dB/100 feet            
+ 
+ 
+         2500 MHz: 
+46.0 dB/100 feet    
+ 
+ 
+ 
+  
+  
+ 
+IV. NOTES 
+      1) All tests performed in accordance with MIL-C-17 (current issue)."
+https://www.mcgillmicrowave.com/product/rg316/?attachment_id=18354&download_file=9qt55qkpgkohx,cable,"Construction Specifications  
+Description 
+Material 
+Size  
+Inner Conductor 
+Silver Plated Copper (Stranded) 
+7/0.18mm  
+Dielectric 
+PTFE 
+1.52mm  
+Outer Braid 
+Silver Plated Copper Braid 
+2.06mm 
+Jacket 
+FEP 
+2.54mm  
+Contact us for more details 
+Unit 5, Block 9 Mitchelston Ind Est, Kirkcaldy, Fife, KY1 3PE, UK 
+Email: contact@mcgillmicrowave.com        
+Tel: UK +44 (0)1592 655428 
+www.mcgillmicrowave.com 
+ 
+RG316 PTFE Insulated Coaxial Cable  
+McGill Part No:  RG316 
+Electrical Specifications  
+Description 
+Unit 
+Value 
+Impedance 
+ohms  
+50 
+Capacitance  
+pF/m 
+100 
+Velocity of Propagation 
+% 
+70 
+Max Voltage 
+VMS 
+1200 
+Max Frequency 
+MHz 
+3,000 
+Temperature Range 
+-55/+200C"
+https://wilcoxon.com/wp-content/uploads/2018/11/A-full-spectrum-of-custom-cables_2018.pdf,cable,A full spectrum of custom cables
+https://www.fairviewmicrowave.com/images/productPDF/RG316-DS.pdf,cable,"REV 1.1   Page 1 of 3
+Copyright © 2019
+Electrical Specifications
+                                                                                                              .
+	
+Description	
+Min	
+Typ	
+Max	
+Units	
+Frequency Range	
+DC	
+	
+3	
+ GHz	
+Impedance	
+	
+50 	
+	
+Ohms	
+Velocity of Propagation	
+	
+96.5 	
+	
+%	
+Shielding Effectiveness	
+85	
+	
+	
+dB	
+Operating Voltage (AC)	
+	
+	
+1,200	
+Vrms	
+Inner Conductor DC Resist.	
+	
+	
+83.82	
+Ohms/1000ft	
+Outer Conductor DC Resist.	
+	
+	
+5.33	
+Ohms/1000ft	
+Nominal Capacitance	
+	
+28.96	
+	
+pF/ft	
+	
+	
+[95.01]	
+	
+[pF/m]	
+Insulation Resistance	
+304.8 	
+	
+	
+MOhms/1Kft 	
+ 	 	
+	
+	
+	
+	
+	
+	
+	
+	
+Performance by Frequency Band
+                                                                                                              .
+	 Description	
+F1	
+F2	
+F3	
+F4	
+F5	
+Units   
+Frequency	
+0.1	
+0.4	
+1	
+2	
+3	
+GHz	
+Attenuation, Max	
+10.97	
+20.97	
+37.95	
+45.05	
+57.94	
+dB/100ft	
+	
+35.99	
+68.8	
+124.51	
+147.8	
+190.09	
+dB/100m	
+	
+	
+	
+	
+	
+	
+	
+Attenuation, Typ	
+8.29	
+17.5	
+29	
+39.41	
+53.55	
+dB/100ft	
+	
+27.2	
+57.41	
+95.14	
+129.3	
+175.69	
+dB/100m	
+	
+	
+	
+	
+	
+	
+	
+Power In (CW), Max	
+375	
+185	
+120	
+85	
+65	
+Watts	
+	 	
+                                                                                     
+Mechanical Specifications
+Diameter	
+0.114 in [2.9 mm]
+Weight	
+0.015 lbs/ft [0.02 Kg/m]
+.
+Min. Bend Radius (Installation)	
+0.59 in [14.99 mm]
+Min. Bend Radius (Repeated)	
+1.57 in [39.88 mm]
+Construction Specifications
+                                           	
+	
+                                              .
+	 Description	
+Material and Plating	
+Diameter	
+Inner Conductor	
+Copper Clad Steel, Silver
+, 7 Strands	 0.02 in [0.51 mm]	
+	
+	
+	
+	
+	
+	
+	
+Conductor Type	
+Stranded	
+	
+	
+	
+	
+	
+	
+	
+	
+Dielectric	
+PTFE	
+0.06 in [1.52 mm]	
+	
+	
+	
+	
+	
+	
+	
+First Shield	
+Silver Plated Copper Braid	
+   	
+	
+	
+	
+	
+	
+	
+	
+Second Shield	
+Silver Plated Copper Braid	
+0.094 in [2.39 mm]	
+	
+	
+	
+	
+	
+	
+	
+Jacket	
+FEP
+, T
+an	
+0.114 in [2.9 mm]	
+	 	
+                                                                                      
+RG316-DS Flexible Coax Cable Tan FEP Jacket
+Fairview Microwave
+301 Leora Ln., Suite 100
+Lewisville, TX 75056
+Tel: 1-800-715-4396 / (972) 649-6678 
+Fax: (972) 649-6689
+www.fairviewmicrowave.com
+sales@fairviewmicrowave.com
+Configuration:
+•	 Flexible Cable
+•	2 Shield(s)
+ RG316-DS
+DATA SHEET"
+https://www.molex.com/pdm_docs/sd/1000680107_sd.pdf,cable,"TITLE 
+PART No. 
+REV 
+PAGE 
+ 
+ 
+ 
+ 
+1 of 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rev 
+DCR 
+Description 
+App’d 
+Date 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Address: 26 Milford Road, South Grafton, MA 01560   Phone: (508)-839-5987   Fax: (508)-839-4128 
+Shield
+Jacket
+Shielded Pair
+30 AWG, 100 Ohm Twinax
+1000680107
+This document is the
+property of TEMP-FLEX.
+It may not be disclosed,
+reproduced, or otherwise
+used without permission.
+Insulation
+1.12+/-0.05mm
+(0.044+/-0.002"")
+1.88+/-0.05mm
+(0.074+/-0.002"")
+Conductor
+Drain
+Updated SDD21 Electrical Values.
+0.89+/-0.05mm
+(0.035+/-0.002"")
+NOTES
+Construction:
+Conductor: 30 AWG, 0.27mm (0.0107"") Solid SPC.
+Insulation: Fluoropolymer
+Drain Wire: 30 AWG, 0.25mm (0.010"") Solid SPC.
+Shield: Aluminum / Polyester Foil, 0.023mm (0.0009"") Thickness Ref.
+Jacket: Polyester, Heat Sealed, 0.08mm (0.0007"") Thickness Ref.
+Safety Compliance: AWM STYLE 22058
+Electrical Characteristics:
+(Based on a 3m Length)
+Differential Impedance: 100+/-5 Ohms.
+Propagation Delay: 4.8 ns/m Ref.
+Intra-Pair Skew: 30 ps/3m Max.
+SCD21
+f < 25.0 GHz: ≥  20 dB
+SCD21-SDD21
+0.01 ≤ f < 12.89 GHz: ≥ 12 dB
+12.89 ≤ f < 15.7 GHz: ≥ (29-(29/22)*f) dB
+15.7 ≤ 25.0 GHz: ≥ 8.3 dB
+Print Legend: MOLEX TEMP-FLEX(R) <LOCATION CODE: US or PHL or GDL>TWINMAX(TM) 30 AWG 1000680107
+--- E61522 <UL CODE: -MPI for PHL, <blank> for US, -MDM for GDL> STYLE 22058 cRUus AWM I A/B 105C 30V FT1 VW-1 --- <TRACEABILITY>
+0.84+/-0.05mm
+(0.033+/-0.002"")
+5/7/18
+C
+KP
+5549
+C
+Freq
+(GHz)
+Based on 3.0m Test Length
+2.50
+5.00
+7.50
+10.00
+Nom.
+Max.
+12.89
+15.00
+17.50
+20.00
+dB
+dB
+SDD21
+5.64
+8.15
+10.13
+11.95
+15.15
+16.55
+17.89
+13.83
+5.87
+8.85
+11.15
+13.55
+15.50
+17.50
+18.85
+20.00
+22.50
+25.00
+19.35
+21.34
+20.59
+23.15
+B
+5371
+Update Print Legend.
+KP
+1/11/18"
+https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5049/AA-12121.pdf,cable,"Rev 
+Description 
+Date 
+By 
+ 
+A 
+Initial Release – CDC 63277 
+11/21/22 
+JR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Component 
+Dimensions (in/mm) 
+Material  
+ 
+ 
+Center Conductor 
+0.0113 (0.287) 
+Silver Plated Copper Clad Steel 
+ 
+ 
+Dielectric 
+0.0370 (0.940) 
+FEP 
+ 
+ 
+Outer Braid 
+0.0410 (1.041) 
+Silver Plated Copper Clad Steel 
+ 
+ 
+Outer Braid 
+0.0450 (1.143) 
+Silver Plated Copper Clad Steel 
+ 
+ 
+Jacket 
+0.0540 (1.422) 
+Blue FEP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mechanical Properties 
+ 
+ 
+Attenuation, 25° 
+ 
+Static Bend Radius: 
+0.20 in (5.08 mm) 
+ 
+Maximum Attenuation: 
+1.225342√F + 0.001833F (dB/100ft) 
+ 
+ 
+Dynamic Bend Radius: 
+0.40 in (10.16 mm) 
+ 
+ 
+4.020150√F + 0.006013F (dB/100m) 
+ 
+ 
+Maximum Outer Diameter: 
+0.0550 in (1.397 mm) 
+ 
+ 
+Where F = Frequency in MHz 
+ 
+ 
+Maximum Weight/1000 feet: 
+3.77 lbs (1.71 kg) 
+ 
+ 
+ 
+ 
+ 
+Operating Temperature: 
+-65°C to +150°C 
+ 
+Frequency (GHz) 
+Maximum Attenuation (dB/100 ft) 
+ 
+ 
+ 
+ 
+ 
+dB/100 ft 
+dB/100 m 
+ 
+ 
+Electrical Properties 
+ 
+ 
+0.5 
+28.31 
+92.89 
+ 
+ 
+Characteristic Impedance: 
+50 ohms nominal 
+ 
+1.0 
+40.58 
+133.14 
+ 
+ 
+Velocity of Propagation: 
+70% nominal 
+ 
+5.0 
+95.81 
+314.35 
+ 
+ 
+Capacitance: 
+28.83 pF/ft (94.59 pF/m) 
+ 
+10.0 
+140.87 
+462.19 
+ 
+ 
+ 
+ 
+ 
+18.0 
+197.38 
+647.60 
+ 
+ 
+26.0 
+245.23 
+804.60 
+ 
+ 
+ 
+40.0 
+318.38 
+1044.60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Times Microwave Systems 
+358 Hall Avenue 
+Wallingford, CT 06492 
+800-867-2629 
+www.timesmicrowave.com 
+Product Name 
+TF-047 
+Part Number 
+58001 
+ 
+The distribution of this document is uncontrolled.  
+Contact Times Microwave Systems for latest revision. 
+Cage Code:  68999 
+Dwg No.:  AA-12121 
+Rev A"
+https://www.mcgillmicrowave.com/product/rg179/?attachment_id=18369&download_file=dix7ul2vun7uw,cable,"Construction Specifications  
+Description 
+Material 
+Size  
+Inner Conductor 
+7 Strand Silver Plated Copper  
+7/0.102mm  
+Dielectric 
+PTFE 
+1.6mm 
+Overall Braid 
+Silver Plated Copper  
+2.06 mm  
+Jacket 
+FEP 
+2.54mm  
+Contact us for more details 
+Unit 5, Block 9 Mitchelston Ind Est, Kirkcaldy, Fife, KY1 3PE, UK 
+Email: contact@mcgillmicrowave.com        
+Tel: UK +44 (0)1592 655428 
+www.mcgillmicrowave.com 
+ 
+RG179 Solid Polytetrafluoroethylene Insulated Coaxial Cable  
+McGill Part No:  RG179 
+Electrical Specifications  
+Description 
+Unit 
+Value 
+Impedance 
+ohms  
+75 
+Capacitance  
+pF/m 
+64  
+Velocity of Propagation 
+% 
+70 
+Max Voltage 
+VMS 
+1,200 
+Max Frequency 
+MHz 
+3,000 
+Temperature Range 
+-40/+200C"
+https://www.alphawire.com/disteAPI/SpecPDF/DownloadProductSpecPdf?productPartNumber=9448,cable,"2200 US Highway 27 South
+Richmond, IN 47374
+Tel: 1-800-52 ALPHA
+Web: www.alphawire.com
+Customer Specification
+PART NO. 9448
+Construction
+ 
+Diameter (""in"")
+1) Component 1
+1 x 1 COAX
+ 
+a) Conductor
+48 (7/56) AWG Silver Copper Alloy
+0.0015
+b) Insulation
+0.0011"" Wall, Nom. PFA
+0.0037
+(1) Color(s)
+ 
+ 
+Cond
+Color
+Cond
+Color
+Cond
+Color
+1
+ YELLOW
+ 
+ 
+2) Shield
+ Silver Platted Copper Alloy SPIRAL Shield, 90% Coverage, min.
+ 
+3) Jacket
+0.0009"" Wall, Nom., PFA
+0.0068
+a) Color(s)
+WHITE
+Applicable Specifications
+1) CE 
+EU Low Voltage Directive 2006/95/EC
+Environmental
+1) CE: EU Directive 2011/65/EU(RoHS2)
+ 
+This product complies with European Directive 2011/65/EU (RoHS Directive) of the European
+Parliament and of the Council of 8 June 2011. No exemptions are required for RoHS
+Compliance on this item. Refer to the RoHS Certificate of Compliance for more detail.
+2) REACH Regulation (EC 1907/2006)
+ 
+This product does not contain Substances of Very High Concern (SVHC) listed on the European
+Union's REACH candidate list in excess of 0.1% mass of the item. For up-to-date information,
+please see Alpha's REACH SVHC Declaration."
+https://www.mcgillmicrowave.com/product/rg214-lszh-cable-assembly/?attachment_id=20128&download_file=e70rthl42eo3c,cable,"Construction Specifications  
+Description 
+Material 
+Size (mm) 
+Inner Conductor 
+7 Strand Bare Copper  
+7/0.75mm  
+Dielectric 
+Solid PE 
+7.25±0.10mm  
+Outer Conductor 
+Tinned Copper  
+7.9±0.15mm  
+Overall Braid 
+Tinned Copper  
+8.4±0.15mm  
+Jacket 
+LSZH PE 
+10.80±0.20 mm  
+Contact us for more details 
+Unit 5, Block 9 Mitchelston Ind Est, Kirkcaldy, Fife, KY1 3PE, UK 
+Email: contact@mcgillmicrowave.com        
+Tel: UK +44 (0)1592 655428 
+www.mcgillmicrowave.com 
+ 
+RG214-LSZH Solid Polyethylene Insulated Coaxial Cable  
+McGill Part No:  RG214-LSZH 
+Electrical Specifications  
+Description 
+Unit 
+Value 
+Impedance 
+ohms  
+50 
+Capacitance  
+pF/m 
+105±5  
+Velocity of Propaga-
+tion 
+% 
+66 
+Max Voltage 
+VMS 
+1,500 
+Max Frequency 
+MHz 
+11,000 
+Temperature Range 
+-40/+90C"
+https://catalog.belden.com/techdata/EN/83265_techdata.pdf,cable,"Product: 83265  
+Mil-Spec Coax, 50 Ohm, RG-178, 30 AWG Str SCCS, 95% SC Braid, FEP
+Jkt, Commercial Non-QPL
+Product Description
+Mil-Spec Coax, 50 Ohm, RG-178, 30 AWG (7x38) Silvered Copper Covered Steel Conductor, PTFE Insulation, 95% Silvered Copper Braid Shield, FEP Jacket,
+Commercial, non-QPL
+Technical Specifications
+Product Overview
+Suitable Applications:
+Aerospace wireless communication
+Construction Details
+RG Type:
+178
+Conductor
+Size
+Stranding
+Nom. Diameter
+Material
+30 AWG
+7x38
+0.012 in
+SCCS - Silvered Copper Covered Steel
+Insulation
+Material
+Nom. Insulation Diameter Color Code
+PTFE - Polytetrafluoroethylene
+0.033 in (0.84 mm)
+White
+Outer Shield
+Layer
+Outer Shield Type
+Material
+Coverage
+1
+Braid
+Silvered Copper (SC)
+95%
+Outer Jacket
+Material
+Nom. Diameter
+FEP - Fluorinated Ethylene Propylene
+0.071 in (1.8 mm)
+Overall Cable Diameter (Nominal): 0.071 in (1.8 mm)
+Electrical Characteristics
+VSWR
+Frequency
+Max. VSWR
+50 MHz - 1000 MHz per M17/93-RG178
+Attenuation
+Frequency Nom. Attenuation
+1 MHz
+2.6 dB/100ft
+10 MHz
+5.6 dB/100ft
+50 MHz
+10.5 dB/100ft
+100 MHz
+14.0 dB/100ft
+200 MHz
+19.0 dB/100ft
+400 MHz
+28.0 dB/100ft
+700 MHz
+37.0 dB/100ft
+900 MHz
+42.5 dB/100ft
+1000 MHz
+46.0 dB/100ft"
+https://catalog.belden.com/techdata/EN/83284_techdata.pdf,cable,"Product: 83284  
+Mil-Spec Coax, 50 Ohm, RG-316, 26 AWG Str SCCS, 95% SC Braid, FEP
+Jkt, Commercial Non-QPL
+Product Description
+Mil-Spec Coax, 50 Ohm, RG-316, 26 AWG (7x34) Silvered Copper Covered Steel Conductor, PTFE Insulation, 95% Silvered Copper Braid Shield, FEP Jacket,
+Commercial, non-QPL
+Technical Specifications
+Product Overview
+Suitable Applications:
+Aerospace wireless communication
+Construction Details
+RG Type:
+316
+Conductor
+Size
+Stranding
+Nom. Diameter
+Material
+26 AWG
+7x34
+0.020 in
+SCCS - Silvered Copper Covered Steel
+Insulation
+Material
+Nom. Insulation Diameter Color Code
+PTFE - Polytetrafluoroethylene
+0.060 in (1.5 mm)
+White
+Outer Shield
+Layer
+Outer Shield Type
+Material
+Coverage
+1
+Braid
+Silvered Copper (SC)
+95%
+Outer Jacket
+Material
+Nom. Diameter
+FEP - Fluorinated Ethylene Propylene
+0.098 in (2.5 mm)
+Overall Cable Diameter (Nominal): 0.098 in (2.5 mm)
+Electrical Characteristics
+VSWR
+Frequency
+Max. VSWR
+1 MHz - 3000 MHz
+per M17/113-RG316
+Attenuation
+Frequency Nom. Attenuation
+1 MHz
+1.2 dB/100ft
+10 MHz
+2.7 dB/100ft
+50 MHz
+5.6 dB/100ft
+100 MHz
+8.3 dB/100ft
+200 MHz
+12.0 dB/100ft
+400 MHz
+17.5 dB/100ft
+700 MHz
+23.7 dB/100ft
+900 MHz
+27.3 dB/100ft
+1000 MHz
+29.0 dB/100ft"
+https://catalog.belden.com/techdata/EN/8219_techdata.pdf,cable,"Product: 8219  
+50 Ohm Wireless Transmission Coax, RG-58, 20 AWG Str TC, 95% TC Braid,
+PVC Jkt, CM
+Product Description
+50 Ohm Wireless Transmission Coax, RG-58, 20 AWG (19x32) Tinned Copper Conductor , PE Insulation, 95% Tinned Copper Braid Shield, PVC Jacket, CM
+Technical Specifications
+Product Overview
+Suitable Applications:
+Point-to-point and point-to-multipoint wireless antenna communication; Wireless microphones, Two-Way Radios, Amateur (Ham) Radio, Low Power FM, GPS, RFID (Radio
+Frequency Identification)
+Construction Details
+RG Type:
+58
+Conductor
+Size
+Stranding
+Nom. Diameter
+Material
+20 AWG
+19x32
+0.037 in
+TC - Tinned Copper
+Insulation
+Material
+Nom. Insulation Diameter Color Code
+PE - Polyethylene (Foam)
+0.116 in (2.95 mm)
+White
+Outer Shield
+Outer Shield Type
+Material
+Coverage
+Braid
+Tinned Copper (TC) 95%
+Outer Jacket
+Material
+Nom. Diameter
+PVC - Polyvinyl Chloride 0.193 in (4.90 mm)
+Overall Cable Diameter
+(Nominal):
+0.193 in (4.90 mm)
+Electrical Characteristics
+Attenuation
+Frequency Nom. Attenuation
+1 MHz
+0.4 dB/100ft
+10 MHz
+1.3 dB/100ft
+50 MHz
+3.1 dB/100ft
+100 MHz
+4.5 dB/100ft
+200 MHz
+6.6 dB/100ft
+400 MHz
+10.0 dB/100ft
+700 MHz
+14.2 dB/100ft
+900 MHz
+16.6 dB/100ft
+1000 MHz
+18.1 dB/100ft
+Electricals
+Nom. Conductor DCR
+Nom. Outer Shield DCR
+Nom. Capacitance Cond-to-Shield
+Nom. Characteristic Impedance
+Nom. Velocity of Prop.
+8.8 Ohm/1000ft
+4.1 Ohm/1000ft (13 Ohm/km)
+26.0 pF/ft (85.3 pF/m)
+54 Ohm
+76%"
+https://www.molex.com/pdm_docs/sd/1000680071_sd.pdf,cable,"TITLE 
+PART No. 
+REV 
+PAGE 
+ 
+ 
+ 
+ 
+1 of 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rev 
+DCR 
+Description 
+App’d 
+Date 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Address: 26 Milford Road, South Grafton, MA 01560   Phone: (508)-839-5987   Fax: (508)-839-4128 
+Shield
+Jacket
+Shielded Pair
+32 AWG, 100 Ohm Twinax
+1000680071
+This document is the
+property of TEMP-FLEX.
+It may not be disclosed,
+reproduced, or otherwise
+used without permission.
+0.61+/-0.038mm
+(0.024+/-0.0015"")
+Insulation
+0.81+/-0.08mm
+(0.032+/-0.003"")
+1.4+/-0.08mm
+(0.055+/-0.003"")
+Signal
+Drain
+Update Print Legend to Add UL.
+0.635+/-0.038mm
+(0.025+/-0.0015"")
+9/6/16
+NOTES
+Construction:
+Conductor: 32 AWG, 0.20mm (0.00795"") Solid SPC
+Insulation: Fluoropolymer
+Drain Wire: 34 AWG, 0.16mm (0.0063"")  Solid SPC
+Shield: Aluminum / Polyester Foil, 0.023mm (0.0009"") Thickness Ref.
+Jacket: Polyester, Heat Sealed, 0.018mm (0.0007"") Thickness Ref.
+Safety Compliance: VW-1
+Electrical Characteristics:
+(Based on a 2m Length)
+Differential Impedance: 100+/-5 Ohms
+Propagation Delay: 4.8 ns/m Ref.
+Intra-Pair Skew: 20 ps/2m Max.
+SCD21
+f <20 GHz: 20 dB Min.
+SCD21-SDD21
+0.01 ≤ f < 12.89: 12 dB Min.
+12.89 ≤ f < 15.7: (29-(29/22)f) dB Min.
+15.7 ≤ f < 19: 8.3 dB Min.
+Mechanical Characteristics
+Min Bend Radius: 5X  OD - Minor Axis
+Print Legend (Drain Wire Side): MOLEX TEMP-FLEX(R) < LOCATION CODE: US or PHL> TWINMAX(TM) 32 AWG 1000680071
+--- E61522 <UL CODE: -MPI for PHL, Blank  for US> cRUus AWM 22046 I A/B 30V 105C FT1 VW-1 --- <LOT, DATE CODE>
+A
+5095
+KP
+B
+B
+Tape Change, New P/N. Color to Blue.
+5237
+KP
+4/20/17
+Freq
+(GHz)
+Based on 2m Test Length
+2.50
+5.00
+7.50
+10.00
+Nom.
+Max.
+12.89
+15.00
+17.50
+20.00
+dB
+dB
+Nom.
+dB
+SDD21
+SCD21
+6.0
+8.5
+10.5
+12.4
+16.6
+20.0
+26.6
+15.0
+6.9
+9.8
+12.1
+14.3
+17.25
+19.1
+23.0
+30.0
+30
+32
+32
+30
+35
+35
+35
+40"
+https://catalog.belden.com/techdata/EN/3092A_techdata.pdf,cable,"Product: 3092A  
+ControlBus™, Coax RG-6, #18 Sol BCCS, FPE Ins, QUAD AL Shld, PVC Jkt,
+CMR
+Product Description
+Coax RG-6 18 AWG (Solid) Bare Copper Covered Steel, Foam PE Insulation, Overall Duobond® II+Aluminum Braid(60%)+Duofoil®+Aluminum Braid(40%)
+Shield, PVC Outer Jacket, CMR
+Technical Specifications
+Product Overview
+Suitable Applications:
+Harsh environment, factory automation, ControlNet™, Modbus II, Industrial Coax, Belden ControlNet cables provide maximum signal integrity and run length exceeding the
+high-speed, time-critical requirements necessary for ControlNet factory floor applications
+Construction Details
+RG Type:
+6
+Conductor
+Size
+Stranding
+Nom. Diameter
+Material
+18 AWG
+Solid
+0.040 in
+BCCS - Bare Copper Covered Steel
+Insulation
+Material
+Nom. Insulation Diameter Color Code
+PE - Polyethylene (Foam)
+0.180 in (4.57 mm)
+White
+Outer Shield
+Layer
+Outer Shield Type
+Material
+Material Trade Name
+Coverage
+1
+Tape
+Tri-Laminate (Alum+Poly+Alum) Duobond® II
+100%
+2
+Braid
+Aluminum
+60%
+3
+Tape
+Tri-Laminate (Alum+Poly+Alum) Duofoil®
+100%
+4
+Braid
+Aluminum
+40%
+Outer Jacket
+Material
+Nom. Diameter
+PVC - Polyvinyl Chloride 0.303 in (7.70 mm)
+Overall Cable Diameter
+(Nominal):
+0.303 in (7.70 mm)
+Electrical Characteristics
+Return Loss (RL)
+Frequency Min. Structural Return Loss
+5 - 50 MHz
+23 dB
+Attenuation
+Frequency Nom. Attenuation
+1 MHz
+0.35 dB/100ft
+2 MHz
+0.38 dB/100ft
+5 MHz
+0.45 dB/100ft
+10 MHz
+0.59 dB/100ft
+20 MHz
+0.86 dB/100ft"
+https://catalog.belden.com/techdata/EN/1505A_techdata.pdf,cable,"Product: 1505A  
+75 Ohm SDI Coax, RG-59, 20 AWG Solid BC, Foil + 95% TC Braid, PVC Jkt,
+CMR
+Product Description
+75 Ohm SDI Coax, RG-59, 20 AWG Solid Bare Copper Conductor, PE Insulation, Foil + 95% Tinned Copper Braid Shield, PVC Jacket, CMR
+Technical Specifications
+Product Overview
+Suitable Applications:
+Digital Video, 6 Gb/s UHDTV, HD-SDI 1080p
+Construction Details
+RG Type:
+59
+Conductor
+Size
+Stranding
+Nom. Diameter
+Material
+20 AWG
+Solid
+0.032 in
+BC - Bare Copper
+Insulation
+Material
+Nom. Insulation Diameter Color Code
+PE - Polyethylene (Foam)
+0.145 in (3.68 mm)
+White
+Outer Shield
+Layer
+Outer Shield Type
+Material
+Material Trade Name
+Coverage
+1
+Tape
+Tri-Laminate (Alum+Poly+Alum) Duofoil®
+100%
+2
+Braid
+Tinned Copper (TC)
+95%
+Outer Jacket
+Material
+Nom. Diameter
+PVC - Polyvinyl Chloride 0.233 in (5.92 mm)
+Overall Cable Diameter (Nominal): 0.233 in (5.92 mm)
+Electrical Characteristics
+Return Loss (RL)
+Frequency
+Min. Return Loss
+5 - 1600 MHz
+23 dB
+1600 - 4500 MHz
+21 dB
+4500 - 6000 MHz
+15 dB
+Attenuation
+Frequency Nom. Attenuation
+1 MHz
+0.3 dB/100ft
+3.58 MHz
+0.6 dB/100ft
+5 MHz
+0.63 dB/100ft
+6 MHz
+0.69 dB/100ft
+7 MHz
+0.74 dB/100ft
+10 MHz
+0.9 dB/100ft
+12 MHz
+0.91 dB/100ft"
+https://catalog.belden.com/techdata/EN/9259_techdata.pdf,cable,"Product: 9259  
+75 Ohm Analog Video Coax, RG-59, 22 AWG Str BC, 95% BC Braid, PVC
+Jkt, CM
+Product Description
+75 Ohm Analog Video Coax, RG-59, 22 AWG (7x30) Bare Copper Conductor , PE Insulation, 95% Bare Copper Braid Shield, PVC Jacket, CM
+Technical Specifications
+Product Overview
+Suitable Applications:
+Standard analog video
+Construction Details
+RG Type:
+59
+Conductor
+Size
+Stranding
+Nom. Diameter
+Material
+22 AWG
+7x30
+0.029 in
+BC - Bare Copper
+Insulation
+Material
+Nom. Insulation Diameter Color Code
+PE - Polyethylene (Foam)
+0.146 in (3.71 mm)
+White
+Outer Shield
+Outer Shield Type
+Material
+Coverage
+Braid
+Bare Copper (BC)
+95%
+Outer Jacket
+Material
+Nom. Diameter
+PVC - Polyvinyl Chloride 0.240 in (6.10 mm)
+Overall Cable Diameter (Nominal): 0.240 in (6.10 mm)
+Electrical Characteristics
+Attenuation
+Frequency Nom. Attenuation
+1 MHz
+0.3 dB/100ft
+5 MHz
+0.65 dB/100ft
+10 MHz
+0.9 dB/100ft
+50 MHz
+2.1 dB/100ft
+100 MHz
+3 dB/100ft
+200 MHz
+4.5 dB/100ft
+400 MHz
+6.6 dB/100ft
+700 MHz
+8.9 dB/100ft
+900 MHz
+10.1 dB/100ft
+1000 MHz
+10.9 dB/100ft
+Electricals
+Nom. Conductor DCR
+Nom. Outer Shield DCR
+Nom. Capacitance Cond-to-Shield
+Nom. Characteristic Impedance
+Nom. Velocity of Prop.
+15 Ohm/1000ft
+2.6 Ohm/1000ft (8.5 Ohm/km)
+17.3 pF/ft (56.8 pF/m)
+75 Ohm
+78%"
