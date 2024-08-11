@@ -212,7 +212,7 @@ class TextClassifier(nn.Module):
 
 
 def evaluate_model(model, test_loader):
-    model.load_state_dict(torch.load("/content/drive/MyDrive/Parspec/model_data.pth"))
+    model.load_state_dict(torch.load("model_data.pth"))
 
     model.eval()
     all_preds = []
@@ -249,7 +249,7 @@ def MLdataset(filepath):
 
 def evaluate_ML(X):
     xgb_model = xgb.XGBClassifier()
-    xgb_model.load_model('/content/drive/MyDrive/Parspec/train_data/xgb_model.json')
+    xgb_model.load_model('xgb_model.json')
     y_pred = xgb_model.predict(X)
 
     label_mapping = {2: "lighting", 1: "fuses", 0: "cable", 3: "others"}
