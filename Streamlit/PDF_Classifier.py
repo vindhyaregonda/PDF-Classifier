@@ -26,7 +26,7 @@ from sentence_transformers import SentenceTransformer
 from torch.utils.data import Dataset, DataLoader, random_split, TensorDataset
 import torch.optim as optim
 import torch.nn.functional as F
-from tqdm import tqdm
+#from tqdm import tqdm
 from sklearn.preprocessing import OneHotEncoder, LabelEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, confusion_matrix, f1_score, recall_score, precision_score
@@ -159,7 +159,7 @@ class ExtractData:
         # with ProcessPoolExecutor() as executor:
             # Create futures
             # futures = {executor.submit(self.process_row, row): idx for idx, row in df.iterrows()}
-            for future in tqdm(as_completed(futures), total=len(futures), desc='Processing rows'):
+            for future in (as_completed(futures)):
                 idx = futures[future]
                 try:
                     df.at[idx, 'content'] = future.result()
