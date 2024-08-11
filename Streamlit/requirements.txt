@@ -6,10 +6,14 @@ PyMuPDF
 pillow
 sentence-transformers
 streamlit
-beautifulsoup4
-streamlit
-beautifulsoup4
-requests
+pandas
+numpy
+matplotlib
 torch
+sentence-transformers
+tqdm
+scikit-learn
+xgboost
+requests
 tqdm
 
