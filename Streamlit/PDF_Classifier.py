@@ -184,9 +184,9 @@ class PDFTextDataset(Dataset):
 
         self.test_data = TensorDataset(self.X)
 
-        save_path = "/content/drive/MyDrive/Parspec/test_embedding_streamlit.pkl"
-        with open(save_path, 'wb') as f:
-            pickle.dump(embeddings, f)
+        # save_path = "/content/drive/MyDrive/Parspec/test_embedding_streamlit.pkl"
+        # with open(save_path, 'wb') as f:
+        #     pickle.dump(embeddings, f)
 
     def get_test_dataloader(self, batch_size=32):
         test_loader = DataLoader(self.test_data, batch_size=batch_size, shuffle=False)
