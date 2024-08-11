@@ -29,3 +29,5 @@ Text extraction was performed directly from URLs to reduce space complexity. For
 ## Results
 Both models performed similarly on the test dataset. The DL model required adjustments to avoid overfitting.
 
+Deployed on streamlit: https://pdf-classifier.streamlit.app/
+
