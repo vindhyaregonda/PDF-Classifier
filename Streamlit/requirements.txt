@@ -5,3 +5,4 @@ PyMuPDF
 pillow
 sentence-transformers
 streamlit
+beautifulsoup4
