@@ -1,6 +1,6 @@
 
 
-%%writefile app.py
+#%%writefile app.py
 import streamlit as st
 from bs4 import BeautifulSoup
 from io import BytesIO
